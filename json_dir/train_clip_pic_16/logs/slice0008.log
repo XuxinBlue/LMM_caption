@@ -1,0 +1,2208 @@
+2024-02-18 17:57:32,543 - modelscope - INFO - PyTorch version 1.13.1 Found.
+2024-02-18 17:57:32,543 - modelscope - INFO - Loading ast index from /home/hf/.cache/modelscope/ast_indexer
+2024-02-18 17:57:32,600 - modelscope - INFO - Loading done! Current index file version is 1.11.1, with md5 19e61ca57b7435e7c64f619f4b14db6e and a total number of 956 components indexed
+2024-02-18 17:57:33,441 - modelscope - INFO - Use user-specified model revision: v1.1.0
+Loading checkpoint shards:   0%|          | 0/10 [00:00<?, ?it/s]Loading checkpoint shards:  10%|█         | 1/10 [00:03<00:29,  3.26s/it]Loading checkpoint shards:  20%|██        | 2/10 [00:07<00:30,  3.84s/it]Loading checkpoint shards:  30%|███       | 3/10 [00:11<00:28,  4.01s/it]Loading checkpoint shards:  40%|████      | 4/10 [00:16<00:24,  4.13s/it]Loading checkpoint shards:  50%|█████     | 5/10 [00:20<00:20,  4.16s/it]Loading checkpoint shards:  60%|██████    | 6/10 [00:24<00:16,  4.09s/it]Loading checkpoint shards:  70%|███████   | 7/10 [00:27<00:11,  3.89s/it]Loading checkpoint shards:  80%|████████  | 8/10 [00:31<00:07,  3.94s/it]Loading checkpoint shards:  90%|█████████ | 9/10 [00:36<00:04,  4.13s/it]Loading checkpoint shards: 100%|██████████| 10/10 [00:38<00:00,  3.68s/it]Loading checkpoint shards: 100%|██████████| 10/10 [00:38<00:00,  3.89s/it]
+0it [00:00, ?it/s]1it [00:04,  4.36s/it]2it [00:10,  5.18s/it]3it [00:11,  3.45s/it]4it [00:13,  2.70s/it]5it [00:15,  2.54s/it]6it [00:18,  2.86s/it]7it [00:20,  2.46s/it]8it [00:25,  3.25s/it]9it [00:29,  3.48s/it]10it [00:30,  2.83s/it]11it [00:34,  3.02s/it]12it [00:37,  3.05s/it]13it [00:41,  3.51s/it]14it [00:45,  3.46s/it]15it [00:48,  3.51s/it]16it [00:53,  3.81s/it]17it [00:59,  4.37s/it]18it [01:06,  5.25s/it]19it [01:10,  4.91s/it]20it [01:14,  4.54s/it]21it [01:18,  4.58s/it]22it [01:24,  4.80s/it]23it [01:27,  4.46s/it]24it [01:30,  3.90s/it]25it [01:32,  3.52s/it]26it [01:36,  3.62s/it]27it [01:40,  3.67s/it]28it [01:49,  5.17s/it]29it [01:55,  5.63s/it]30it [01:58,  4.73s/it]31it [02:03,  4.74s/it]32it [02:08,  5.00s/it]33it [02:12,  4.59s/it]34it [02:17,  4.60s/it]35it [02:20,  4.24s/it]36it [02:28,  5.24s/it]37it [02:32,  4.89s/it]38it [02:33,  3.83s/it]39it [02:38,  4.24s/it]40it [02:40,  3.44s/it]41it [02:45,  4.09s/it]42it [02:47,  3.20s/it]response: <ref> screen</ref><box>(314,0),(565,999)</box>
+response: <ref> boss</ref><box>(327,0),(560,999)</box>
+response: <ref>silver</ref><box>(582,495),(783,608)</box>
+response: <ref>display</ref><box>(0,348),(999,589)</box>
+response: <ref>wheel</ref><box>(168,695),(218,809)</box>
+response: <ref>change</ref><box>(745,71),(877,194)</box>
+response: <ref>show</ref><box>(299,348),(684,535)</box>
+response: <ref>dog</ref><box>(195,29),(995,963)</box>
+response: yawn
+list index out of range
+response: I'm sorry, but I need more information about the image. Can you please provide more context or a specific image for me to assist you with the bbox标注?
+list index out of range
+response: <ref>hand</ref><box>(513,423),(553,482)</box>
+response: <ref>clap</ref><box>(513,423),(553,482)</box>
+response: <ref>guy</ref><box>(418,544),(558,877)</box>
+response: <ref>stage</ref><box>(199,655),(685,877)</box>
+response: <ref>walk</ref><box>(183,655),(689,877)</box>
+response: <ref>dog</ref><box>(356,4),(720,527)</box>
+response: eat
+list index out of range
+response: <ref>bus</ref><box>(737,0),(810,125)</box>
+response: <ref>decker</ref><box>(737,0),(810,125)</box>
+response: <ref>go</ref><box>(737,0),(810,125)</box>
+response: <ref>double</ref><box>(737,0),(810,125)</box>
+response: <ref>sun</ref><box>(657,186),(808,380)</box>
+response: <ref>horizon</ref><box>(1,361),(997,413)</box>
+response: <ref>appear</ref><box>(370,469),(516,570)</box>
+response: <ref>dog</ref><box>(117,39),(872,977)</box>
+response: mouth
+list index out of range
+response: <ref> chef</ref><box>(204,70),(439,838)</box>
+response: <ref> doe</ref><box>(799,386),(995,997)</box>
+response: <ref> grab</ref><box>(448,269),(569,720)</box>
+response: <ref> sky</ref><box>(4,6),(996,723)</box>
+response: <ref> view</ref><box>(7,503),(994,991)</box>
+response: <ref> cloud</ref><box>(427,598),(518,688)</box>
+response: <ref> sunglass</ref><box>(560,146),(638,190)</box>
+response: <ref> guy</ref><box>(459,116),(682,983)</box>
+response: <ref> foreground</ref><box>(867,595),(998,996)</box>
+response: <ref> wear</ref><box>(546,469),(675,865)</box>
+response: <ref>store</ref><box>(0,3),(995,997)</box>
+response: <ref>person</ref><box>(582,489),(786,989)</box>
+response: <ref>wheelchair</ref><box>(501,364),(594,604)</box>
+response: <ref>person</ref><box>(339,405),(477,694)</box>
+response: <ref>frame</ref><box>(339,405),(477,694)</box>
+response: <ref>wave</ref><box>(149,524),(261,733)</box>
+response: <ref>fire</ref><box>(897,31),(998,530)</box>
+response: <ref>puff</ref><box>(820,31),(998,534)</box>
+response: <ref>stage</ref><box>(1,313),(997,994)</box>
+response: <ref>two small</ref><box>(191,315),(273,409)</box>
+response: <ref>someone</ref><box>(120,793),(586,999)</box>
+response: <ref>hand</ref><box>(120,793),(586,999)</box>
+response: <ref>cat</ref><box>(96,274),(999,999)</box>
+response: <ref>reach</ref><box>(120,793),(586,999)</box>
+response: <ref>pet</ref><box>(96,274),(999,999)</box>
+response: <ref> stand</ref><box>(11,528),(801,997)</box>
+response: <ref> gentleman</ref><box>(273,204),(757,997)</box>
+response: <ref> microphone</ref><box>(242,288),(376,353)</box>
+response: <ref> reach</ref><box>(358,206),(586,357)</box>
+response: <ref> adjust</ref><box>(466,575),(610,995)</box>
+response: <ref> stand</ref><box>(469,577),(602,996)</box>
+response: <ref> they</ref><box>(359,439),(494,693)</box>
+response: <ref> left</ref><box>(169,548),(273,724)</box>
+response: <ref> go</ref><box>(359,439),(494,693)</box>
+response: <ref>car</ref><box>(924,466),(997,596)</box>
+response: <ref>woman</ref><box>(487,233),(998,998)</box>
+response: <ref>pass</ref><box>(269,309),(414,462)</box>
+response: <ref> view</ref><box>(367,103),(682,993)</box>
+response: <ref> g</ref><box>(439,105),(609,757)</box>
+response: <ref> letter</ref><box>(439,105),(609,757)</box>
+response: <ref> slide</ref><box>(27,623),(245,995)</box>
+response: <ref> woman</ref><box>(302,141),(473,999)</box>
+response: <ref> man</ref><box>(65,6),(399,999)</box>
+response: <ref> blindfold</ref><box>(124,105),(312,209)</box>
+response: <ref> touch</ref><box>(437,822),(536,996)</box>
+response: <ref>coastline</ref><box>(0,174),(995,641)</box>
+response: <ref>dog</ref><box>(249,447),(295,546)</box>
+response: <ref>run</ref><box>(269,512),(639,994)</box>
+response: <ref>hand</ref><box>(0,2),(409,986)</box>
+response: <ref>clap</ref><box>(27,2),(418,438)</box>
+response: <ref>ram</ref><box>(267,528),(605,841)</box>
+response: <ref>walk</ref><box>(267,528),(605,841)</box>
+response: <ref>cat</ref><box>(252,552),(712,996)</box>
+response: <ref>toy</ref><box>(519,2),(996,520)</box>
+response: <ref>bat</ref><box>(127,153),(539,666)</box>
+response: <ref>person</ref><box>(734,64),(932,503)</box>
+response: <ref>frame</ref><box>(734,64),(932,503)</box>
+response: <ref>wave</ref><box>(101,539),(236,777)</box>
+response: <ref>order</ref><box>(316,74),(634,956)</box>
+response: <ref>hour</ref><box>(316,74),(634,956)</box>
+response: <ref>hand</ref><box>(409,322),(479,400)</box>
+response: <ref>guitarist</ref><box>(316,74),(634,956)</box>
+response: <ref>lift</ref><box>(316,74),(634,956)</box>
+response: <ref>readjust</ref><box>(316,74),(634,956)</box>
+response: <ref>play</ref><box>(316,74),(634,956)</box>
+response: <ref> man</ref><box>(237,151),(760,996)</box>
+response: <ref> stand</ref><box>(539,516),(828,997)</box>
+response: <ref> microphone</ref><box>(233,243),(376,305)</box>
+response: <ref> adjust</ref><box>(243,423),(388,479)</box>
+response: <ref> stand</ref><box>(543,516),(826,997)</box>
+response: <ref>fire</ref><box>(423,4),(618,792)</box>
+response: <ref>go bigger</ref><box>(655,568),(851,992)</box>
+response: <ref>table</ref><box>(215,10),(778,999)</box>
+response: <ref>package</ref><box>(253,135),(683,891)</box>
+response: <ref>sit</ref><box>(253,135),(683,891)</box>
+response: <ref>unopene</ref><box>(253,135),(683,891)</box>
+response: <ref> man</ref><box>(757,348),(822,550)</box>
+response: <ref> black</ref><box>(757,348),(822,550)</box>
+response: <ref> dress</ref><box>(757,394),(822,543)</box>
+response: <ref> sit</ref><box>(369,579),(509,995)</box>
+response: <ref> get</ref><box>(369,579),(509,995)</box>
+response: <ref> train</ref><box>(18,353),(997,691)</box>
+response: <ref> door</ref><box>(690,463),(796,686)</box>
+response: <ref> close</ref><box>(339,577),(499,726)</box>
+response: <ref>laptop</ref><box>(660,572),(740,663)</box>
+response: <ref>man</ref><box>(599,329),(731,982)</box>
+response: <ref>tie</ref><box>(633,454),(663,572)</box>
+response: <ref>touch</ref><box>(741,426),(791,562)</box>
+response: <ref>car</ref><box>(831,476),(1000,748)</box>
+response: <ref>woman</ref><box>(494,210),(999,995)</box>
+response: <ref>pass</ref><box>(238,413),(307,629)</box>
+response: <ref>man</ref><box>(252,0),(999,735)</box>
+response: <ref>sleeve</ref><box>(252,0),(999,735)</box>
+response: <ref>screen</ref><box>(91,306),(327,775)</box>
+response: <ref>computer</ref><box>(91,306),(327,775)</box>
+response: <ref>point</ref><box>(795,356),(999,999)</box>
+response: <ref>black</ref><box>(795,356),(999,999)</box>
+response: <ref>tree</ref><box>(801,226),(997,790)</box>
+response: <ref>fence</ref><box>(143,383),(995,882)</box>
+response: <ref>patch</ref><box>(333,703),(439,835)</box>
+response: <ref> flame</ref><box>(323,105),(663,386)</box>
+response: <ref>rock</ref><box>(807,5),(997,988)</box>
+response: <ref>people</ref><box>(257,372),(602,543)</box>
+response: <ref>gap</ref><box>(171,14),(920,994)</box>
+response: <ref>spot</ref><box>(307,372),(340,430)</box>
+response: <ref>dog</ref><box>(133,47),(877,978)</box>
+response: mouth
+list index out of range
+response: <ref>hat</ref><box>(463,338),(519,391)</box>
+response: <ref>people</ref><box>(127,266),(239,450)</box>
+response: <ref>koala</ref><box>(383,338),(529,505)</box>
+response: <ref>two</ref><box>(127,266),(239,450)</box>
+response: <ref>approach</ref><box>(391,10),(491,540)</box>
+response: <ref>umbrella</ref><box>(563,526),(649,581)</box>
+response: <ref> man</ref><box>(1,486),(251,997)</box>
+response: <ref> snow</ref><box>(5,11),(994,994)</box>
+response: <ref> jacket</ref><box>(1,615),(207,996)</box>
+response: <ref> show</ref><box>(3,11),(995,995)</box>
+43it [02:52,  3.81s/it]44it [02:54,  3.37s/it]45it [02:58,  3.39s/it]46it [03:00,  3.05s/it]47it [03:03,  3.15s/it]48it [03:08,  3.58s/it]49it [03:12,  3.66s/it]50it [03:13,  2.99s/it]51it [03:17,  3.19s/it]52it [03:19,  2.94s/it]53it [03:22,  2.82s/it]54it [03:25,  3.10s/it]55it [03:30,  3.62s/it]56it [03:35,  3.92s/it]57it [03:38,  3.75s/it]58it [03:40,  3.26s/it]59it [03:44,  3.34s/it]60it [03:48,  3.69s/it]61it [03:54,  4.29s/it]62it [03:57,  3.97s/it]63it [04:01,  3.83s/it]64it [04:06,  4.10s/it]65it [04:08,  3.69s/it]66it [04:10,  2.97s/it]67it [04:16,  4.04s/it]68it [04:20,  3.88s/it]69it [04:24,  4.01s/it]71it [04:26,  2.69s/it]72it [04:31,  3.10s/it]73it [04:35,  3.39s/it]74it [04:36,  2.80s/it]75it [04:45,  4.66s/it]76it [04:52,  5.34s/it]77it [04:55,  4.44s/it]78it [04:57,  3.80s/it]79it [04:59,  3.36s/it]80it [05:09,  5.20s/it]81it [05:11,  4.31s/it]82it [05:16,  4.35s/it]83it [05:19,  4.03s/it]84it [05:25,  4.67s/it]85it [05:28,  4.24s/it]86it [05:32,  4.12s/it]87it [05:38,  4.63s/it]response: <ref> red</ref><box>(1,616),(206,996)</box>
+response: <ref>text</ref><box>(289,7),(582,994)</box>
+response: <ref>visible</ref><box>(157,473),(305,988)</box>
+response: <ref>bus</ref><box>(719,562),(809,675)</box>
+response: <ref>red</ref><box>(495,431),(531,480)</box>
+response: <ref>appear</ref><box>(399,616),(479,715)</box>
+response: <ref> pagoda</ref><box>(359,355),(743,994)</box>
+response: <ref> see</ref><box>(143,426),(995,761)</box>
+response: <ref>hand</ref><box>(551,524),(603,801)</box>
+response: <ref>conductor</ref><box>(551,524),(603,801)</box>
+response: <ref>move</ref><box>(179,634),(253,791)</box>
+response: <ref>camerawoman</ref><box>(1,516),(259,999)</box>
+response: <ref>cat</ref><box>(74,175),(999,969)</box>
+response: <ref>begin</ref><box>(1,516),(259,999)</box>
+response: <ref>pet</ref><box>(74,175),(999,969)</box>
+response: <ref> someone</ref><box>(483,74),(783,975)</box>
+response: <ref> bend</ref><box>(483,74),(783,975)</box>
+response: <ref> stand</ref><box>(355,60),(583,989)</box>
+response: <ref>violinist</ref><box>(218,575),(489,953)</box>
+response: <ref>child</ref><box>(196,128),(935,850)</box>
+response: <ref>something</ref><box>(352,478),(603,663)</box>
+response: <ref>point</ref><box>(394,793),(783,995)</box>
+response: <ref>sun</ref><box>(513,604),(543,643)</box>
+response: <ref>rise</ref><box>(494,594),(599,652)</box>
+response: <ref>hand</ref><box>(594,367),(632,426)</box>
+response: <ref>clap</ref><box>(293,720),(334,770)</box>
+response: <ref>hall</ref><box>(10,15),(990,983)</box>
+response: <ref>giant</ref><box>(10,15),(990,983)</box>
+response: <ref>sign</ref><box>(10,15),(990,983)</box>
+response: <ref>man</ref><box>(307,298),(568,986)</box>
+response: <ref>tattoo</ref><box>(411,503),(479,562)</box>
+response: <ref>sticker</ref><box>(188,755),(298,855)</box>
+response: <ref>cheek</ref><box>(411,395),(456,452)</box>
+response: <ref> frame</ref><box>(8,10),(992,988)</box>
+response: <ref> light</ref><box>(434,108),(983,512)</box>
+response: <ref> scene</ref><box>(10,10),(992,988)</box>
+response: <ref> blue</ref><box>(119,473),(231,646)</box>
+response: come
+list index out of range
+response: <ref>sky</ref><box>(376,163),(586,312)</box>
+response: <ref>firework</ref><box>(546,537),(662,631)</box>
+response: <ref>streak</ref><box>(806,112),(996,332)</box>
+response: <ref>structure</ref><box>(2,396),(996,995)</box>
+response: <ref>wall</ref><box>(840,301),(997,458)</box>
+response: <ref>suit</ref><box>(406,475),(669,982)</box>
+response: <ref>girl</ref><box>(0,135),(997,995)</box>
+response: <ref>pink and white bathing</ref><box>(409,472),(667,977)</box>
+response: <ref> cave</ref><box>(1,4),(194,994)</box>
+response: <ref> view</ref><box>(6,10),(996,994)</box>
+response: <ref> wall</ref><box>(23,729),(143,992)</box>
+response: <ref> zoom out</ref><box>(24,13),(996,992)</box>
+response: <ref> puck</ref><box>(11,10),(990,987)</box>
+response: <ref> ice</ref><box>(11,10),(990,987)</box>
+response: <ref> person</ref><box>(399,249),(699,564)</box>
+response: <ref> hockey</ref><box>(11,10),(990,987)</box>
+response: <ref> shoot</ref><box>(11,10),(990,987)</box>
+response: <ref>leg</ref><box>(144,484),(359,721)</box>
+response: <ref>bug</ref><box>(51,143),(761,884)</box>
+response: <ref>wiggle</ref><box>(42,339),(374,721)</box>
+response: <ref> sidewalk</ref><box>(1,582),(363,996)</box>
+response: <ref> corner</ref><box>(288,533),(960,962)</box>
+response: <ref> box</ref><box>(558,743),(646,879)</box>
+response: <ref>bubble</ref><box>(781,621),(827,684)</box>
+response: <ref>diver</ref><box>(619,26),(739,419)</box>
+response: <ref>see</ref><box>(305,386),(557,621)</box>
+response: <ref>go</ref><box>(305,386),(557,621)</box>
+response: <ref>baby</ref><box>(197,175),(619,723)</box>
+response: <ref>lay</ref><box>(197,175),(619,723)</box>
+response: <ref>frame</ref><box>(0,696),(882,994)</box>
+response: <ref>person</ref><box>(746,637),(820,914)</box>
+response: <ref>shirt</ref><box>(756,663),(815,745)</box>
+response: <ref>see</ref><box>(338,637),(491,737)</box>
+response: <ref>walk</ref><box>(538,670),(746,845)</box>
+response: <ref>gray</ref><box>(544,673),(746,842)</box>
+response: <ref>log</ref><box>(160,233),(849,401)</box>
+response: <ref>koala</ref><box>(150,99),(271,330)</box>
+response: <ref>flip</ref><box>(549,367),(689,438)</box>
+response: <ref>white</ref><box>(1,551),(950,994)</box>
+response: <ref>cap</ref><box>(0,553),(422,990)</box>
+response: <ref>boy</ref><box>(0,1),(161,539)</box>
+response: <ref>green</ref><box>(406,172),(998,727)</box>
+response: <ref> goat</ref><box>(289,375),(675,857)</box>
+response: <ref> walk</ref><box>(289,375),(675,857)</box>
+response: <ref>rock</ref><box>(343,439),(544,602)</box>
+response: <ref>people</ref><box>(544,546),(671,627)</box>
+response: <ref>see</ref><box>(3,443),(995,995)</box>
+response: <ref>stand</ref><box>(183,503),(373,690)</box>
+response: <ref>view</ref><box>(157,553),(435,987)</box>
+response: <ref>light</ref><box>(0,5),(196,388)</box>
+response: <ref>bright</ref><box>(0,5),(196,388)</box>
+response: <ref>come</ref><box>(437,357),(993,984)</box>
+response: <ref> flame</ref><box>(380,69),(537,471)</box>
+response: <ref>floor</ref><box>(686,769),(797,951)</box>
+response: <ref>kid</ref><box>(577,355),(801,954)</box>
+response: <ref>stick</ref><box>(562,364),(624,839)</box>
+response: <ref>shirt</ref><box>(589,402),(801,684)</box>
+response: <ref>yellow and black</ref><box>(589,378),(801,684)</box>
+response: <ref>go</ref><box>(577,355),(801,954)</box>
+response: <ref>push</ref><box>(562,364),(624,839)</box>
+response: <ref> suit</ref><box>(626,460),(722,556)</box>
+response: <ref> person</ref><box>(431,347),(479,522)</box>
+response: <ref> ski</ref><box>(455,409),(504,454)</box>
+response: <ref> sled</ref><box>(628,511),(722,558)</box>
+response: <ref> black</ref><box>(628,460),(722,556)</box>
+response: <ref> stand</ref><box>(433,344),(477,520)</box>
+response: <ref>alleyway</ref><box>(368,612),(529,801)</box>
+response: <ref>appear</ref><box>(382,616),(522,806)</box>
+response: <ref>alleyway</ref><box>(352,623),(530,832)</box>
+response: <ref>appear</ref><box>(352,623),(530,832)</box>
+response: <ref>alleyway</ref><box>(389,793),(548,996)</box>
+response: <ref>appear</ref><box>(393,795),(546,996)</box>
+response: <ref>silver</ref><box>(243,728),(626,997)</box>
+response: <ref>bowl</ref><box>(243,728),(626,997)</box>
+response: <ref>floor</ref><box>(218,133),(780,999)</box>
+response: <ref>meal</ref><box>(280,800),(457,972)</box>
+response: <ref>dog</ref><box>(278,0),(703,885)</box>
+response: <ref>big</ref><box>(278,0),(703,885)</box>
+response: <ref>black</ref><box>(278,0),(703,885)</box>
+response: <ref>chow</ref><box>(280,800),(457,972)</box>
+response: <ref>frame</ref><box>(6,8),(994,990)</box>
+response: <ref>shortest</ref><box>(348,663),(709,960)</box>
+response: <ref>corner</ref><box>(0,36),(292,826)</box>
+response: <ref>car</ref><box>(889,427),(999,780)</box>
+response: <ref>white</ref><box>(889,427),(999,780)</box>
+response: <ref>turn</ref><box>(394,0),(938,841)</box>
+response: <ref>person</ref><box>(499,0),(999,505)</box>
+response: <ref>frame</ref><box>(0,622),(506,999)</box>
+response: <ref>leave</ref><box>(0,622),(506,999)</box>
+response: <ref> arm</ref><box>(409,399),(474,546)</box>
+response: <ref> man</ref><box>(395,334),(509,753)</box>
+response: <ref> stage</ref><box>(314,562),(996,994)</box>
+response: <ref> dance</ref><box>(391,334),(509,753)</box>
+response: <ref> raise</ref><box>(399,334),(509,753)</box>
+response: <ref>view</ref><box>(3,3),(997,991)</box>
+response: <ref>fence</ref><box>(0,378),(999,928)</box>
+response: <ref>come</ref><box>(375,612),(527,807)</box>
+response: <ref> singer</ref><box>(215,52),(389,995)</box>
+response: <ref> microphone</ref><box>(219,146),(289,229)</box>
+response: <ref> grab</ref><box>(723,3),(908,995)</box>
+response: <ref> man</ref><box>(135,107),(423,996)</box>
+response: <ref> jacket</ref><box>(135,222),(402,834)</box>
+response: <ref> ski</ref><box>(145,783),(217,997)</box>
+response: <ref> appear</ref><box>(323,107),(423,313)</box>
+response: <ref> red</ref><box>(135,222),(402,834)</box>
+response: <ref>butterfly</ref><box>(776,220),(950,402)</box>
+response: <ref>toy</ref><box>(776,220),(950,402)</box>
+88it [05:41,  4.32s/it]89it [05:45,  4.06s/it]90it [05:47,  3.50s/it]91it [05:53,  4.12s/it]92it [05:55,  3.71s/it]93it [06:01,  4.25s/it]94it [06:06,  4.55s/it]95it [06:09,  3.95s/it]96it [06:12,  3.80s/it]98it [06:15,  2.62s/it]99it [06:17,  2.62s/it]100it [06:23,  3.32s/it]101it [06:28,  3.76s/it]102it [06:34,  4.49s/it]103it [06:38,  4.48s/it]104it [06:41,  3.83s/it]105it [06:45,  3.98s/it]106it [06:51,  4.54s/it]107it [06:55,  4.51s/it]108it [06:57,  3.80s/it]109it [06:58,  3.00s/it]111it [07:02,  2.37s/it]112it [07:05,  2.67s/it]113it [07:13,  4.02s/it]114it [07:15,  3.54s/it]115it [07:19,  3.45s/it]116it [07:23,  3.70s/it]117it [07:25,  3.24s/it]118it [07:30,  3.59s/it]119it [07:34,  3.92s/it]121it [07:38,  3.06s/it]122it [07:49,  5.06s/it]123it [07:55,  5.30s/it]124it [07:58,  4.60s/it]125it [08:02,  4.37s/it]126it [08:07,  4.46s/it]127it [08:09,  3.83s/it]128it [08:12,  3.68s/it]129it [08:17,  3.89s/it]130it [08:20,  3.75s/it]response: <ref>lift</ref><box>(776,220),(950,402)</box>
+response: <ref>sun</ref><box>(502,603),(532,650)</box>
+response: <ref>horizon</ref><box>(334,622),(598,678)</box>
+response: <ref>peek</ref><box>(588,785),(678,913)</box>
+response: <ref>move</ref><box>(349,352),(508,535)</box>
+response: <ref>koala</ref><box>(341,337),(521,535)</box>
+response: <ref> hand</ref><box>(494,626),(588,725)</box>
+response: <ref> gentleman</ref><box>(429,374),(628,997)</box>
+response: <ref> gesture</ref><box>(494,626),(588,725)</box>
+response: <ref> talk</ref><box>(494,626),(588,725)</box>
+response: <ref> make</ref><box>(494,626),(588,725)</box>
+response: <ref> woman</ref><box>(318,137),(483,989)</box>
+response: <ref> walk away</ref><box>(599,74),(837,996)</box>
+response: <ref> someone</ref><box>(18,53),(977,975)</box>
+response: <ref> left</ref><box>(18,53),(977,975)</box>
+response: <ref> paper</ref><box>(18,53),(977,975)</box>
+response: <ref> image</ref><box>(18,53),(977,975)</box>
+response: <ref> wave</ref><box>(18,53),(977,975)</box>
+response: <ref>fire</ref><box>(416,790),(487,911)</box>
+response: <ref>puff</ref><box>(860,900),(996,996)</box>
+response: <ref>stage</ref><box>(233,512),(996,995)</box>
+response: <ref>two small</ref><box>(393,945),(446,996)</box>
+response: <ref>stage</ref><box>(168,5),(523,997)</box>
+response: <ref>singer</ref><box>(262,67),(456,919)</box>
+response: <ref>sun</ref><box>(676,330),(818,486)</box>
+response: <ref>horizon</ref><box>(0,472),(999,511)</box>
+response: <ref>appear</ref><box>(21,543),(246,747)</box>
+response: <ref> ram</ref><box>(202,514),(585,766)</box>
+response: <ref> walk</ref><box>(202,514),(585,766)</box>
+response: <ref>light</ref><box>(453,866),(493,932)</box>
+response: <ref>blink</ref><box>(243,418),(273,471)</box>
+response: <ref>man</ref><box>(721,402),(808,765)</box>
+response: <ref>hair</ref><box>(503,426),(698,989)</box>
+response: <ref>walk</ref><box>(259,430),(490,991)</box>
+response: <ref>grey</ref><box>(264,430),(490,989)</box>
+response: <ref> man</ref><box>(409,366),(533,699)</box>
+response: <ref> hair</ref><box>(445,368),(495,420)</box>
+response: <ref> walk</ref><box>(671,575),(745,715)</box>
+response: <ref> grey</ref><box>(685,484),(745,570)</box>
+response: <ref>man</ref><box>(691,469),(762,719)</box>
+response: <ref>suit</ref><box>(691,469),(762,719)</box>
+response: <ref>lean</ref><box>(691,469),(762,719)</box>
+response: <ref>get</ref><box>(691,469),(762,719)</box>
+response: <ref>black</ref><box>(691,469),(762,719)</box>
+response: <ref> owner</ref><box>(83,105),(586,620)</box>
+response: <ref> treat</ref><box>(389,446),(447,548)</box>
+response: <ref> shepard</ref><box>(1,468),(772,995)</box>
+response: <ref> take</ref><box>(389,446),(447,548)</box>
+response: <ref>man</ref><box>(256,207),(892,995)</box>
+response: <ref>move close</ref><box>(256,207),(892,995)</box>
+response: <ref>hat</ref><box>(0,606),(219,984)</box>
+response: <ref>man</ref><box>(0,606),(219,984)</box>
+response: <ref>black</ref><box>(0,606),(219,984)</box>
+response: <ref>walk off</ref><box>(821,562),(994,984)</box>
+response: <ref>hat</ref><box>(158,562),(421,999)</box>
+response: <ref>person</ref><box>(624,619),(837,999)</box>
+response: <ref>view</ref><box>(337,719),(674,999)</box>
+response: <ref>black</ref><box>(839,557),(999,989)</box>
+response: <ref>exit</ref><box>(839,557),(999,989)</box>
+response: <ref> arm</ref><box>(396,403),(446,574)</box>
+response: <ref> man</ref><box>(391,328),(503,701)</box>
+response: <ref> swing</ref><box>(389,319),(506,701)</box>
+response: <ref> raise</ref><box>(391,328),(446,574)</box>
+response: <ref> frame</ref><box>(5,10),(994,743)</box>
+response: <ref> shortest</ref><box>(342,685),(724,970)</box>
+response: <ref> violinist</ref><box>(428,668),(667,997)</box>
+response: <ref>text</ref><box>(218,89),(551,557)</box>
+response: <ref>screen</ref><box>(114,20),(618,623)</box>
+response: <ref>change</ref><box>(245,103),(345,178)</box>
+response: <ref> owner</ref><box>(1,192),(370,996)</box>
+response: <ref> treat</ref><box>(367,279),(663,364)</box>
+response: <ref> shepard</ref><box>(118,494),(481,997)</box>
+response: take
+list index out of range
+response: <ref> man</ref><box>(268,633),(332,995)</box>
+response: <ref> fire</ref><box>(531,7),(996,994)</box>
+response: <ref> spectator</ref><box>(343,642),(430,995)</box>
+response: <ref> street</ref><box>(1,616),(995,995)</box>
+response: <ref> ball</ref><box>(695,637),(791,860)</box>
+response: <ref> pull</ref><box>(268,633),(332,995)</box>
+response: <ref> watch</ref><box>(269,633),(331,995)</box>
+response: <ref>girl</ref><box>(3,61),(505,986)</box>
+response: <ref>look up</ref><box>(1,66),(500,824)</box>
+response: <ref> screen</ref><box>(357,556),(440,652)</box>
+response: <ref> people</ref><box>(237,636),(322,996)</box>
+response: <ref> walk</ref><box>(2,839),(103,996)</box>
+response: <ref> thumb</ref><box>(65,583),(418,999)</box>
+response: <ref> person</ref><box>(65,583),(418,999)</box>
+response: <ref> cat</ref><box>(0,0),(885,999)</box>
+response: <ref> stroke</ref><box>(127,336),(288,543)</box>
+response: <ref>cat</ref><box>(369,196),(790,922)</box>
+response: <ref>lay</ref><box>(650,2),(999,988)</box>
+response: <ref> view</ref><box>(363,14),(683,995)</box>
+response: <ref> g</ref><box>(438,113),(606,773)</box>
+response: <ref> letter</ref><box>(439,539),(466,593)</box>
+response: <ref> slide</ref><box>(442,113),(602,769)</box>
+response: <ref>arrow</ref><box>(586,394),(686,694)</box>
+response: <ref>ground</ref><box>(700,759),(827,995)</box>
+response: <ref>yellow</ref><box>(460,514),(650,794)</box>
+response: <ref>light</ref><box>(797,223),(869,309)</box>
+response: <ref> singing</ref><box>(338,287),(594,994)</box>
+response: <ref> girl</ref><box>(338,287),(594,994)</box>
+response: <ref> blue</ref><box>(338,469),(595,994)</box>
+response: <ref>t-shirt</ref><box>(378,460),(428,528)</box>
+response: <ref>back</ref><box>(378,460),(428,528)</box>
+response: <ref>frisbee</ref><box>(103,243),(156,322)</box>
+response: <ref>dude</ref><box>(378,435),(438,592)</box>
+response: <ref>black</ref><box>(378,460),(428,528)</box>
+response: <ref>white</ref><box>(378,460),(428,528)</box>
+response: <ref>throw</ref><box>(103,243),(156,322)</box>
+response: <ref>pick</ref><box>(103,243),(156,322)</box>
+response: <ref>throw</ref><box>(103,243),(156,322)</box>
+response: <ref> starting</ref><box>(359,629),(719,828)</box>
+response: <ref> car</ref><box>(359,629),(719,828)</box>
+response: <ref> line</ref><box>(359,629),(719,828)</box>
+response: <ref> red</ref><box>(359,629),(719,828)</box>
+response: <ref> take off</ref><box>(359,629),(719,828)</box>
+response: <ref>performer</ref><box>(734,89),(927,504)</box>
+response: <ref>sway</ref><box>(370,399),(511,694)</box>
+response: <ref> someone</ref><box>(464,113),(746,996)</box>
+response: <ref> bend</ref><box>(595,522),(739,915)</box>
+response: <ref> stand</ref><box>(327,105),(553,993)</box>
+response: <ref> owner</ref><box>(372,153),(705,995)</box>
+response: <ref> treat</ref><box>(373,403),(438,501)</box>
+response: <ref> shepard</ref><box>(209,643),(378,994)</box>
+response: <ref> take</ref><box>(623,466),(671,561)</box>
+response: <ref> man</ref><box>(253,134),(874,995)</box>
+response: <ref> move close</ref><box>(253,134),(874,995)</box>
+response: <ref>type</ref><box>(658,536),(810,815)</box>
+response: <ref>chapel</ref><box>(111,23),(596,781)</box>
+response: <ref>building</ref><box>(103,23),(588,778)</box>
+response: <ref>man</ref><box>(171,391),(295,863)</box>
+response: <ref>suit</ref><box>(171,391),(295,863)</box>
+response: <ref>walk</ref><box>(859,364),(933,599)</box>
+response: <ref>grey</ref><box>(171,391),(295,863)</box>
+response: <ref>bus</ref><box>(396,242),(998,874)</box>
+response: <ref>red</ref><box>(396,242),(998,874)</box>
+response: <ref>pass</ref><box>(563,514),(795,658)</box>
+response: <ref>bus</ref><box>(745,554),(835,666)</box>
+response: <ref>screen</ref><box>(755,554),(821,647)</box>
+response: <ref>decker</ref><box>(743,551),(831,666)</box>
+response: <ref>frame</ref><box>(362,234),(996,620)</box>
+response: <ref>red</ref><box>(522,429),(553,479)</box>
+response: <ref>come</ref><box>(474,613),(521,693)</box>
+response: <ref>double</ref><box>(474,613),(521,693)</box>
+131it [08:28,  5.01s/it]132it [08:32,  4.81s/it]133it [08:36,  4.33s/it]134it [08:39,  4.03s/it]135it [08:41,  3.49s/it]136it [08:53,  6.03s/it]137it [08:55,  4.89s/it]138it [09:00,  4.90s/it]139it [09:07,  5.58s/it]140it [09:11,  4.91s/it]141it [09:13,  4.11s/it]142it [09:14,  3.30s/it]143it [09:18,  3.34s/it]144it [09:22,  3.67s/it]145it [09:28,  4.32s/it]146it [09:30,  3.70s/it]147it [09:32,  2.92s/it]149it [09:35,  2.35s/it]150it [09:38,  2.58s/it]151it [09:41,  2.78s/it]152it [09:50,  4.44s/it]153it [09:53,  3.81s/it]154it [09:57,  4.01s/it]155it [10:02,  4.16s/it]156it [10:05,  3.94s/it]157it [10:10,  4.11s/it]158it [10:14,  4.23s/it]159it [10:15,  3.38s/it]160it [10:20,  3.69s/it]161it [10:24,  3.97s/it]162it [10:28,  3.78s/it]163it [10:32,  3.90s/it]164it [10:34,  3.38s/it]165it [10:36,  3.03s/it]166it [10:40,  3.25s/it]167it [10:42,  2.95s/it]168it [10:46,  3.04s/it]169it [10:53,  4.36s/it]170it [10:56,  4.07s/it]171it [11:00,  3.84s/it]172it [11:02,  3.43s/it]173it [11:06,  3.39s/it]174it [11:07,  2.70s/it]response: <ref> picture</ref><box>(14,11),(994,988)</box>
+response: <ref> line</ref><box>(260,369),(630,553)</box>
+response: <ref> black</ref><box>(2,6),(284,995)</box>
+response: <ref> disappear</ref><box>(833,555),(883,691)</box>
+response: <ref> man</ref><box>(31,6),(418,995)</box>
+response: <ref> green</ref><box>(119,105),(318,236)</box>
+response: <ref> turn</ref><box>(359,6),(898,989)</box>
+response: <ref>child</ref><box>(193,134),(936,856)</box>
+response: <ref>something</ref><box>(438,483),(639,821)</box>
+response: <ref>point</ref><box>(438,483),(639,821)</box>
+response: <ref>musician</ref><box>(672,47),(999,935)</box>
+response: <ref>visible</ref><box>(672,47),(999,935)</box>
+response: <ref>siren</ref><box>(338,194),(378,253)</box>
+response: <ref>looker</ref><box>(679,469),(746,739)</box>
+response: <ref>dozen</ref><box>(333,366),(537,580)</box>
+response: <ref>night</ref><box>(338,33),(657,235)</box>
+response: <ref>pedestrian</ref><box>(679,469),(746,739)</box>
+response: <ref>police</ref><box>(333,366),(537,580)</box>
+response: <ref>car</ref><box>(338,210),(411,318)</box>
+response: <ref>erupt</ref><box>(338,194),(378,253)</box>
+response: <ref>dark colored</ref><box>(338,366),(537,580)</box>
+response: <ref>zip</ref><box>(338,194),(378,253)</box>
+response: <ref> man</ref><box>(428,282),(715,997)</box>
+response: <ref> red</ref><box>(431,362),(693,994)</box>
+response: <ref>man</ref><box>(703,230),(999,989)</box>
+response: <ref>tattoo</ref><box>(703,230),(999,989)</box>
+response: <ref>sticker</ref><box>(855,425),(999,584)</box>
+response: <ref>cheek</ref><box>(703,230),(999,989)</box>
+response: <ref> man</ref><box>(2,6),(751,996)</box>
+response: <ref> pan</ref><box>(616,652),(997,997)</box>
+response: <ref> screen</ref><box>(616,654),(997,997)</box>
+response: <ref> computer</ref><box>(615,653),(997,997)</box>
+response: <ref> talk</ref><box>(615,652),(997,997)</box>
+response: <ref> show</ref><box>(616,652),(997,997)</box>
+response: <ref>bus</ref><box>(697,249),(997,833)</box>
+response: <ref>red</ref><box>(696,243),(997,833)</box>
+response: <ref>appear</ref><box>(323,626),(401,723)</box>
+response: <ref>violin</ref><box>(327,763),(503,866)</box>
+response: <ref>player</ref><box>(247,574),(492,919)</box>
+response: <ref> woman</ref><box>(3,264),(303,996)</box>
+response: scene
+list index out of range
+response: <ref> person</ref><box>(237,596),(309,713)</box>
+response: <ref> sled</ref><box>(235,600),(308,710)</box>
+response: <ref> get off</ref><box>(235,596),(309,713)</box>
+response: <ref>man</ref><box>(276,616),(506,987)</box>
+response: <ref>cap</ref><box>(146,319),(325,560)</box>
+response: <ref>bend</ref><box>(37,319),(356,979)</box>
+response: <ref>blue</ref><box>(27,319),(356,979)</box>
+response: <ref> man</ref><box>(717,405),(797,652)</box>
+response: <ref> suit</ref><box>(717,471),(788,636)</box>
+response: <ref> lean</ref><box>(719,402),(793,652)</box>
+response: <ref> get</ref><box>(719,402),(793,652)</box>
+response: <ref> black</ref><box>(719,402),(793,652)</box>
+response: <ref>text</ref><box>(417,858),(843,995)</box>
+response: <ref>visible</ref><box>(431,854),(841,995)</box>
+response: <ref> umbrella</ref><box>(935,619),(994,666)</box>
+response: <ref> they</ref><box>(353,433),(490,691)</box>
+response: <ref> left</ref><box>(110,536),(226,722)</box>
+response: <ref> go</ref><box>(353,433),(490,691)</box>
+response: <ref>car</ref><box>(209,457),(367,619)</box>
+response: <ref>bridge</ref><box>(10,224),(542,646)</box>
+response: <ref>pass</ref><box>(11,227),(542,646)</box>
+response: <ref>braid</ref><box>(500,510),(608,636)</box>
+response: <ref>girl</ref><box>(347,136),(752,986)</box>
+response: <ref>jump</ref><box>(146,328),(296,523)</box>
+response: <ref> kid</ref><box>(506,495),(603,600)</box>
+response: <ref> suit</ref><box>(353,375),(401,526)</box>
+response: <ref> sled</ref><box>(521,545),(602,591)</box>
+response: <ref> snow</ref><box>(2,11),(996,995)</box>
+response: <ref> hill</ref><box>(3,119),(996,995)</box>
+response: <ref> slide</ref><box>(521,542),(602,593)</box>
+response: <ref> black snow</ref><box>(517,533),(590,593)</box>
+response: <ref> cover</ref><box>(517,501),(590,591)</box>
+response: <ref> collection</ref><box>(1,73),(995,994)</box>
+response: <ref> rock</ref><box>(340,234),(574,529)</box>
+response: <ref> arm</ref><box>(348,318),(430,490)</box>
+response: <ref> man</ref><box>(533,516),(638,825)</box>
+response: <ref> swing</ref><box>(433,578),(533,658)</box>
+response: <ref> raise</ref><box>(339,318),(430,490)</box>
+response: <ref> text</ref><box>(407,399),(519,463)</box>
+response: <ref> screen</ref><box>(262,377),(672,570)</box>
+response: <ref> black with blue</ref><box>(10,637),(360,863)</box>
+response: <ref> start</ref><box>(733,103),(809,194)</box>
+response: <ref>tree</ref><box>(137,305),(313,591)</box>
+response: <ref>fence</ref><box>(38,513),(727,912)</box>
+response: <ref>patch</ref><box>(577,759),(715,935)</box>
+response: <ref>bus</ref><box>(197,193),(999,999)</box>
+response: <ref>deck</ref><box>(325,546),(999,817)</box>
+response: <ref>double</ref><box>(325,546),(999,817)</box>
+response: <ref>speed</ref><box>(197,193),(999,999)</box>
+response: <ref> text</ref><box>(406,399),(571,466)</box>
+response: <ref> screen</ref><box>(261,378),(666,570)</box>
+response: <ref> black with blue</ref><box>(11,574),(361,891)</box>
+response: <ref> start</ref><box>(257,369),(671,574)</box>
+response: <ref>dog</ref><box>(185,35),(995,963)</box>
+response: mouth
+list index out of range
+response: <ref>bubble</ref><box>(533,328),(583,402)</box>
+response: <ref>diver</ref><box>(465,207),(811,684)</box>
+response: <ref>see</ref><box>(465,207),(811,684)</box>
+response: <ref>go</ref><box>(533,328),(583,402)</box>
+response: <ref> person</ref><box>(365,246),(586,908)</box>
+response: <ref> fist</ref><box>(362,261),(438,353)</box>
+response: <ref> fashion</ref><box>(362,246),(586,908)</box>
+response: <ref> pump</ref><box>(549,570),(672,906)</box>
+response: <ref> person</ref><box>(193,592),(302,711)</box>
+response: <ref> sled</ref><box>(269,785),(323,863)</box>
+response: <ref> get off</ref><box>(201,604),(283,699)</box>
+response: <ref>cat</ref><box>(356,173),(716,888)</box>
+response: <ref>toy</ref><box>(642,0),(999,624)</box>
+response: <ref>lay</ref><box>(642,0),(999,624)</box>
+response: <ref>play</ref><box>(642,0),(999,624)</box>
+response: <ref>text</ref><box>(11,519),(990,929)</box>
+response: <ref>appear</ref><box>(439,684),(481,740)</box>
+response: <ref> goat</ref><box>(191,362),(594,872)</box>
+response: <ref> walk</ref><box>(187,356),(596,875)</box>
+response: <ref> singer</ref><box>(260,70),(412,989)</box>
+response: <ref> microphone</ref><box>(147,245),(209,386)</box>
+response: <ref> grab</ref><box>(731,31),(911,995)</box>
+response: <ref>collection</ref><box>(1,11),(998,995)</box>
+response: <ref>rock</ref><box>(214,398),(402,701)</box>
+response: <ref>firework</ref><box>(3,536),(995,996)</box>
+response: <ref>stadium</ref><box>(3,5),(995,996)</box>
+response: <ref>shoot</ref><box>(143,327),(330,538)</box>
+response: <ref> people</ref><box>(533,468),(611,756)</box><box>(258,607),(335,840)</box><box>(149,605),(223,923)</box><box>(675,483),(753,745)</box><box>(87,597),(149,831)</box><box>(510,786),(638,988)</box><box>(940,495),(997,728)</box><box>(421,501),(469,723)</box>
+response: <ref> walk</ref><box>(113,820),(174,995)</box>
+response: <ref>instrument</ref><box>(347,460),(412,645)</box>
+response: <ref>person</ref><box>(295,349),(497,970)</box>
+response: <ref>play</ref><box>(339,457),(412,647)</box>
+response: <ref>floor</ref><box>(467,635),(602,770)</box>
+response: <ref>people</ref><box>(569,103),(859,992)</box>
+response: <ref>sweep</ref><box>(531,652),(630,728)</box>
+response: <ref>girl</ref><box>(347,477),(431,719)</box>
+response: <ref>point</ref><box>(602,501),(704,769)</box>
+response: <ref>chef</ref><box>(249,88),(493,794)</box>
+response: <ref>doe</ref><box>(907,359),(999,999)</box>
+response: <ref>grab</ref><box>(249,88),(493,794)</box>
+response: <ref>way</ref><box>(368,473),(504,655)</box>
+response: <ref>view</ref><box>(157,369),(416,984)</box>
+response: <ref>accordion</ref><box>(217,486),(403,647)</box>
+response: <ref>player</ref><box>(543,305),(696,886)</box>
+175it [11:11,  3.21s/it]176it [11:16,  3.65s/it]177it [11:19,  3.52s/it]178it [11:23,  3.65s/it]179it [11:26,  3.35s/it]180it [11:37,  5.83s/it]181it [11:44,  6.10s/it]182it [11:49,  5.67s/it]183it [11:57,  6.62s/it]184it [12:00,  5.55s/it]185it [12:08,  6.30s/it]186it [12:10,  4.74s/it]187it [12:12,  4.00s/it]188it [12:14,  3.43s/it]189it [12:15,  2.70s/it]190it [12:19,  3.18s/it]191it [12:23,  3.24s/it]192it [12:25,  2.99s/it]193it [12:29,  3.16s/it]194it [12:32,  3.18s/it]195it [12:37,  3.92s/it]196it [12:41,  3.70s/it]197it [12:45,  3.84s/it]198it [12:48,  3.78s/it]199it [12:54,  4.37s/it]200it [13:00,  4.79s/it]201it [13:01,  3.75s/it]202it [13:06,  4.05s/it]203it [13:09,  3.84s/it]204it [13:13,  3.73s/it]205it [13:17,  3.94s/it]206it [13:19,  3.38s/it]207it [13:24,  3.64s/it]208it [13:28,  3.90s/it]209it [13:39,  5.91s/it]210it [13:42,  5.07s/it]211it [13:46,  4.77s/it]212it [13:49,  4.32s/it]response: <ref>come</ref><box>(153,924),(269,986)</box>
+response: <ref>light</ref><box>(267,549),(653,850)</box>
+response: <ref>water</ref><box>(263,554),(653,848)</box>
+response: <ref>blue</ref><box>(263,554),(653,848)</box>
+response: <ref>flash</ref><box>(263,549),(653,850)</box>
+response: <ref>train</ref><box>(77,346),(999,691)</box>
+response: <ref>door</ref><box>(746,430),(821,673)</box>
+response: <ref>close</ref><box>(746,430),(821,673)</box>
+response: <ref>light</ref><box>(338,773),(376,844)</box>
+response: <ref>blue</ref><box>(280,567),(608,840)</box>
+response: <ref>shine</ref><box>(342,576),(379,636)</box>
+response: <ref> woman</ref><box>(318,164),(431,988)</box>
+response: <ref> walk away</ref><box>(599,81),(817,996)</box>
+response: <ref>g</ref><box>(438,105),(613,777)</box>
+response: <ref>light</ref><box>(364,10),(681,994)</box>
+response: <ref>b</ref><box>(438,105),(613,777)</box>
+response: <ref>letter</ref><box>(438,105),(613,777)</box>
+response: <ref>进行bbox标注</ref><box>(438,105),(613,777)</box>
+response: <ref>building</ref><box>(364,10),(681,994)</box>
+response: <ref>white</ref><box>(438,105),(613,777)</box>
+response: <ref>red</ref><box>(438,105),(613,777)</box>
+response: <ref>change</ref><box>(438,105),(613,777)</box>
+response: <ref> scene</ref><box>(6,5),(994,993)</box>
+response: <ref> frame</ref><box>(828,519),(997,995)</box>
+response: <ref> jacket</ref><box>(889,524),(997,995)</box>
+response: <ref> gentleman</ref><box>(831,524),(997,995)</box>
+response: <ref> red</ref><box>(929,943),(997,995)</box>
+response: <ref> wear</ref><box>(829,524),(997,995)</box>
+response: <ref>hat</ref><box>(193,547),(450,999)</box>
+response: <ref>man</ref><box>(193,547),(450,999)</box>
+response: <ref>black</ref><box>(814,533),(999,999)</box>
+response: <ref>walk off</ref><box>(814,533),(999,999)</box>
+response: <ref> silver</ref><box>(282,739),(668,997)</box>
+response: <ref> bowl</ref><box>(282,739),(668,997)</box>
+response: <ref> floor</ref><box>(218,146),(781,999)</box>
+response: <ref> meal</ref><box>(305,781),(633,996)</box>
+response: <ref> dog</ref><box>(367,4),(732,512)</box>
+response: <ref> big</ref><box>(403,3),(732,512)</box>
+response: <ref> black</ref><box>(403,3),(732,512)</box>
+response: <ref> chow</ref><box>(303,781),(632,996)</box>
+response: <ref> puck</ref><box>(349,1),(451,101)</box>
+response: <ref> hockey</ref><box>(0,0),(448,913)</box>
+response: <ref> see</ref><box>(10,5),(990,995)</box>
+response: <ref>floor</ref><box>(795,839),(880,959)</box>
+response: <ref>kid</ref><box>(734,42),(977,814)</box>
+response: <ref>stick</ref><box>(734,547),(859,824)</box>
+response: <ref>shirt</ref><box>(749,139),(971,399)</box>
+response: <ref>yellow and black</ref><box>(739,144),(977,399)</box>
+response: <ref>go</ref><box>(734,544),(851,822)</box>
+response: <ref>push</ref><box>(739,544),(851,822)</box>
+response: <ref>hallway</ref><box>(0,446),(996,996)</box>
+response: <ref> man</ref><box>(659,377),(759,616)</box>
+response: <ref> squat down</ref><box>(617,529),(904,947)</box>
+response: <ref>girl</ref><box>(11,20),(537,993)</box>
+response: <ref>look up</ref><box>(13,22),(532,852)</box>
+response: <ref>arena</ref><box>(0,0),(997,996)</box>
+response: <ref> thumb</ref><box>(55,483),(409,997)</box>
+response: <ref> person</ref><box>(1,461),(410,996)</box>
+response: <ref> cat</ref><box>(0,0),(885,994)</box>
+response: <ref> stroke</ref><box>(353,782),(495,996)</box>
+response: <ref>coastline</ref><box>(377,228),(997,642)</box>
+response: <ref>dog</ref><box>(273,496),(330,616)</box>
+response: <ref>run</ref><box>(353,638),(510,984)</box>
+response: <ref>move</ref><box>(357,338),(531,530)</box>
+response: <ref>koala</ref><box>(357,338),(531,530)</box>
+response: <ref>car</ref><box>(274,484),(882,797)</box>
+response: <ref>red</ref><box>(274,484),(882,797)</box>
+response: <ref>race</ref><box>(274,484),(882,797)</box>
+response: <ref>car</ref><box>(213,459),(360,624)</box>
+response: <ref>bridge</ref><box>(22,224),(540,639)</box>
+response: <ref>pass</ref><box>(22,224),(540,639)</box>
+response: <ref>dress</ref><box>(327,232),(484,874)</box>
+response: <ref>state</ref><box>(551,229),(996,842)</box>
+response: <ref>girl</ref><box>(327,232),(484,874)</box>
+response: <ref>blue</ref><box>(327,232),(484,874)</box>
+response: <ref>walk</ref><box>(551,229),(996,842)</box>
+response: <ref> store</ref><box>(3,6),(995,996)</box>
+response: <ref> person</ref><box>(750,495),(996,996)</box>
+response: <ref> wheelchair</ref><box>(657,278),(750,430)</box>
+response: <ref>white</ref><box>(440,2),(996,429)</box>
+response: <ref>cap</ref><box>(283,365),(952,736)</box>
+response: <ref>boy</ref><box>(2,623),(225,990)</box>
+response: <ref>green</ref><box>(0,62),(999,659)</box>
+response: <ref>car</ref><box>(209,459),(361,612)</box>
+response: <ref>hill</ref><box>(554,309),(996,684)</box>
+response: <ref>zoom</ref><box>(209,459),(361,612)</box>
+response: <ref>vehicle</ref><box>(1,783),(538,999)</box>
+response: <ref>rock</ref><box>(416,715),(466,770)</box>
+response: <ref>dropping</ref><box>(721,623),(945,867)</box>
+response: <ref>pass</ref><box>(721,623),(945,867)</box>
+response: <ref>dark colored</ref><box>(840,875),(996,996)</box>
+response: <ref>vehicle</ref><box>(0,683),(999,996)</box>
+response: <ref>rock</ref><box>(539,656),(574,713)</box>
+response: <ref>dropping</ref><box>(457,639),(747,764)</box>
+response: <ref>pass</ref><box>(377,613),(757,770)</box>
+response: <ref>dark colored</ref><box>(509,656),(544,707)</box>
+response: <ref> man</ref><box>(3,6),(993,995)</box>
+response: pan
+list index out of range
+response: <ref>band</ref><box>(757,8),(997,881)</box>
+response: <ref>show</ref><box>(300,269),(649,943)</box>
+response: <ref>play</ref><box>(100,267),(399,989)</box>
+response: <ref>small</ref><box>(463,373),(551,503)</box>
+response: <ref> man</ref><box>(31,4),(445,995)</box>
+response: <ref> green</ref><box>(119,113),(319,257)</box>
+response: <ref> turn</ref><box>(367,7),(903,989)</box>
+response: <ref>man</ref><box>(451,115),(722,894)</box>
+response: <ref>dough</ref><box>(541,732),(715,995)</box>
+response: <ref>form</ref><box>(541,732),(715,995)</box>
+response: <ref>bike</ref><box>(498,303),(590,403)</box>
+response: <ref>people</ref><box>(583,213),(844,570)</box>
+response: <ref>pass</ref><box>(323,386),(362,450)</box>
+response: <ref>push</ref><box>(659,438),(709,500)</box>
+response: <ref>flower</ref><box>(0,122),(519,865)</box>
+response: <ref>white</ref><box>(0,122),(519,865)</box>
+response: <ref>picture</ref><box>(3,10),(997,995)</box>
+response: <ref>line</ref><box>(213,317),(631,522)</box>
+response: <ref>black</ref><box>(829,522),(867,651)</box>
+response: <ref>disappear</ref><box>(829,522),(867,651)</box>
+response: <ref> shirt</ref><box>(337,347),(468,590)</box>
+response: <ref> clerk</ref><box>(242,184),(352,439)</box>
+response: <ref> white</ref><box>(335,344),(469,593)</box>
+response: <ref> disappear</ref><box>(335,344),(469,593)</box>
+response: <ref>g</ref><box>(438,107),(613,765)</box>
+response: <ref>light</ref><box>(368,73),(681,994)</box>
+response: <ref>b</ref><box>(439,107),(613,764)</box>
+response: <ref>letter</ref><box>(439,107),(613,764)</box>
+response: <ref>进行bbox标注</ref><box>(439,107),(613,764)</box>
+response: <ref>building</ref><box>(368,73),(681,994)</box>
+response: <ref>white</ref><box>(368,73),(681,994)</box>
+response: <ref>red</ref><box>(439,107),(613,764)</box>
+response: <ref>change</ref><box>(439,107),(613,764)</box>
+response: <ref> man</ref><box>(35,6),(414,996)</box>
+response: <ref> green</ref><box>(152,77),(282,227)</box>
+response: <ref> turn</ref><box>(343,7),(905,999)</box>
+response: <ref>hand</ref><box>(1,572),(308,989)</box>
+response: <ref>screen</ref><box>(1,4),(997,458)</box>
+response: <ref>frame</ref><box>(1,4),(997,458)</box>
+response: <ref>descend</ref><box>(1,572),(308,989)</box>
+response: <ref>sky</ref><box>(3,4),(996,996)</box>
+response: <ref>firework</ref><box>(191,595),(516,953)</box>
+response: <ref>streak</ref><box>(0,833),(996,949)</box>
+response: <ref>hat</ref><box>(243,130),(761,333)</box>
+response: <ref>child</ref><box>(197,128),(927,996)</box>
+response: <ref>screen</ref><box>(0,0),(995,999)</box>
+213it [13:55,  4.72s/it]214it [13:58,  4.31s/it]215it [14:03,  4.33s/it]216it [14:06,  4.01s/it]217it [14:09,  3.67s/it]218it [14:14,  4.17s/it]219it [14:17,  3.67s/it]220it [14:21,  3.95s/it]221it [14:29,  5.16s/it]222it [14:33,  4.69s/it]223it [14:36,  4.25s/it]224it [14:37,  3.34s/it]225it [14:42,  3.74s/it]226it [14:45,  3.62s/it]227it [14:51,  4.31s/it]228it [15:00,  5.61s/it]229it [15:04,  5.27s/it]230it [15:07,  4.66s/it]231it [15:09,  3.67s/it]232it [15:12,  3.54s/it]233it [15:14,  3.21s/it]234it [15:18,  3.24s/it]235it [15:20,  2.94s/it]236it [15:23,  3.04s/it]237it [15:29,  3.78s/it]238it [15:32,  3.67s/it]239it [15:35,  3.25s/it]240it [15:37,  2.93s/it]241it [15:39,  2.71s/it]242it [15:41,  2.57s/it]243it [15:43,  2.51s/it]244it [15:45,  2.07s/it]245it [15:47,  2.13s/it]246it [15:52,  3.02s/it]247it [15:58,  3.89s/it]248it [16:00,  3.46s/it]249it [16:03,  3.13s/it]250it [16:08,  3.93s/it]251it [16:21,  6.44s/it]252it [16:25,  5.86s/it]253it [16:30,  5.65s/it]254it [16:37,  5.98s/it]255it [16:40,  4.93s/it]response: <ref>something</ref><box>(408,482),(567,647)</box>
+response: <ref>point</ref><box>(408,482),(567,647)</box>
+response: <ref>tree</ref><box>(140,286),(183,436)</box>
+response: <ref>fence</ref><box>(514,420),(958,884)</box>
+response: <ref>patch</ref><box>(538,727),(681,905)</box>
+response: <ref> dog</ref><box>(762,456),(818,512)</box>
+response: <ref> beach</ref><box>(1,312),(995,992)</box>
+response: <ref> small</ref><box>(762,456),(818,512)</box>
+response: <ref> run</ref><box>(762,456),(818,512)</box>
+response: <ref>dog</ref><box>(312,5),(588,837)</box>
+response: <ref>bowl</ref><box>(235,739),(621,997)</box>
+response: <ref>drink</ref><box>(328,791),(549,997)</box>
+response: <ref>door</ref><box>(748,439),(828,676)</box>
+response: <ref>close</ref><box>(748,439),(828,676)</box>
+response: <ref>view</ref><box>(56,148),(804,995)</box>
+response: <ref>light</ref><box>(748,0),(995,733)</box>
+response: <ref>bright</ref><box>(533,412),(638,493)</box>
+response: <ref>come</ref><box>(533,412),(638,493)</box>
+response: <ref>sky</ref><box>(0,5),(998,253)</box>
+response: <ref>visible</ref><box>(175,253),(358,413)</box>
+response: <ref> arm</ref><box>(357,2),(430,163)</box>
+response: <ref> screen</ref><box>(242,0),(456,948)</box>
+response: <ref> person</ref><box>(278,0),(428,802)</box>
+response: <ref> raise</ref><box>(355,2),(428,163)</box>
+response: <ref>order</ref><box>(335,143),(659,993)</box>
+response: <ref>hour</ref><box>(337,143),(659,993)</box>
+response: <ref>hand</ref><box>(335,143),(659,993)</box>
+response: <ref>guitarist</ref><box>(335,143),(659,993)</box>
+response: <ref>lift</ref><box>(335,143),(659,993)</box>
+response: <ref>readjust</ref><box>(335,143),(659,993)</box>
+response: <ref>play</ref><box>(335,143),(659,993)</box>
+response: <ref> sidewalk</ref><box>(1,571),(999,996)</box>
+response: <ref> corner</ref><box>(279,631),(662,945)</box>
+response: <ref> box</ref><box>(563,751),(646,886)</box>
+response: <ref> man</ref><box>(60,6),(414,995)</box>
+response: <ref> green</ref><box>(161,86),(273,237)</box>
+response: <ref> turn</ref><box>(365,715),(431,811)</box>
+response: <ref> arena</ref><box>(2,6),(997,995)</box>
+response: <ref>band</ref><box>(374,253),(721,729)</box>
+response: <ref>show</ref><box>(374,253),(721,729)</box>
+response: <ref>play</ref><box>(374,253),(721,729)</box>
+response: <ref>small</ref><box>(374,253),(721,729)</box>
+response: <ref>coastline</ref><box>(0,184),(995,658)</box>
+response: <ref>dog</ref><box>(194,447),(232,534)</box>
+response: <ref>run</ref><box>(229,570),(548,988)</box>
+response: <ref>carpet</ref><box>(1,486),(855,992)</box>
+response: <ref>circle</ref><box>(239,707),(355,828)</box>
+response: <ref>boy</ref><box>(0,249),(106,825)</box>
+response: <ref>go</ref><box>(16,735),(156,817)</box>
+response: <ref>move</ref><box>(489,268),(691,702)</box>
+response: <ref>order</ref><box>(327,99),(651,978)</box>
+response: <ref>hour</ref><box>(327,99),(651,978)</box>
+response: <ref>hand</ref><box>(437,372),(499,453)</box>
+response: <ref>guitarist</ref><box>(327,99),(651,978)</box>
+response: <ref>lift</ref><box>(327,99),(651,978)</box>
+response: <ref>readjust</ref><box>(327,99),(651,978)</box>
+response: <ref>play</ref><box>(327,99),(651,978)</box>
+response: <ref> guitar</ref><box>(486,533),(651,997)</box>
+response: <ref> foot</ref><box>(462,791),(625,914)</box>
+response: <ref> girl</ref><box>(183,178),(888,997)</box>
+response: <ref> move</ref><box>(486,533),(651,997)</box>
+response: <ref>text</ref><box>(223,86),(551,564)</box>
+response: <ref>screen</ref><box>(119,18),(619,613)</box>
+response: <ref>change</ref><box>(251,95),(346,183)</box>
+response: <ref>dog</ref><box>(27,32),(918,965)</box>
+response: mouth
+list index out of range
+response: <ref> singing</ref><box>(311,186),(583,987)</box>
+response: <ref> girl</ref><box>(311,186),(583,987)</box>
+response: <ref> blue</ref><box>(311,186),(583,987)</box>
+response: <ref> flame</ref><box>(455,6),(691,789)</box>
+response: <ref> size</ref><box>(456,377),(619,687)</box>
+response: increase
+list index out of range
+response: <ref> crowd</ref><box>(79,483),(992,994)</box>
+response: <ref> spotlight</ref><box>(0,338),(100,783)</box>
+response: <ref> be</ref><box>(243,762),(285,833)</box>
+response: <ref> man</ref><box>(261,175),(887,997)</box>
+response: <ref> move close</ref><box>(199,317),(566,821)</box>
+response: <ref> person</ref><box>(154,310),(667,999)</box>
+response: <ref> plane</ref><box>(1,0),(997,999)</box>
+response: <ref> fall</ref><box>(154,310),(667,999)</box>
+response: <ref> mountain</ref><box>(0,148),(999,714)</box>
+response: <ref> hiker</ref><box>(257,482),(300,691)</box>
+response: <ref> sky</ref><box>(0,0),(999,414)</box>
+response: <ref> beauty</ref><box>(281,502),(357,759)</box>
+response: <ref> observe</ref><box>(207,482),(251,693)</box>
+response: <ref>man</ref><box>(147,124),(516,986)</box>
+response: <ref>face</ref><box>(277,118),(513,435)</box>
+response: <ref>touch</ref><box>(425,677),(516,834)</box>
+response: <ref> woman</ref><box>(298,224),(469,988)</box>
+response: <ref> walk away</ref><box>(599,94),(813,995)</box>
+response: <ref>view</ref><box>(11,11),(992,988)</box>
+response: <ref>screen</ref><box>(558,26),(928,527)</box>
+response: <ref>baby</ref><box>(150,239),(657,801)</box>
+response: <ref>lay</ref><box>(150,239),(657,801)</box>
+response: <ref>rock</ref><box>(899,764),(926,825)</box>
+response: <ref>people</ref><box>(899,764),(926,825)</box>
+response: <ref>cat</ref><box>(170,199),(999,995)</box>
+response: <ref>lay down</ref><box>(170,199),(999,995)</box>
+response: <ref>splash</ref><box>(3,134),(995,994)</box>
+response: <ref>firework</ref><box>(190,593),(523,957)</box>
+response: <ref>shoot</ref><box>(190,593),(523,957)</box>
+response: <ref>stop</ref><box>(189,556),(263,631)</box>
+response: <ref>car</ref><box>(209,514),(793,816)</box>
+response: <ref>red</ref><box>(209,514),(793,816)</box>
+response: <ref>stop</ref><box>(189,556),(263,631)</box>
+response: <ref>shirt</ref><box>(230,312),(610,999)</box>
+response: <ref>woman</ref><box>(230,312),(610,999)</box>
+response: <ref>white</ref><box>(230,312),(610,999)</box>
+response: <ref>blonde</ref><box>(230,312),(610,999)</box>
+response: <ref>appear</ref><box>(596,636),(950,984)</box>
+response: <ref>dog</ref><box>(305,4),(774,897)</box>
+response: <ref>bowl</ref><box>(257,708),(638,996)</box>
+response: eat
+list index out of range
+response: <ref>everybody</ref><box>(479,436),(669,989)</box>
+response: <ref>clap</ref><box>(556,635),(610,711)</box>
+response: <ref> man</ref><box>(866,699),(886,753)</box>
+response: <ref> jacket</ref><box>(866,699),(886,753)</box>
+response: <ref> ski</ref><box>(866,699),(886,753)</box>
+response: <ref> appear</ref><box>(866,699),(886,753)</box>
+response: <ref> red</ref><box>(866,699),(886,753)</box>
+response: <ref>stick</ref><box>(327,135),(363,325)</box>
+response: <ref>pileup</ref><box>(269,286),(380,407)</box>
+response: <ref>woman</ref><box>(327,1),(462,407)</box>
+response: <ref>kart</ref><box>(279,286),(378,403)</box>
+response: <ref>toy</ref><box>(273,286),(378,407)</box>
+response: <ref>shirt</ref><box>(337,1),(443,193)</box>
+response: <ref>racing</ref><box>(269,286),(378,407)</box>
+response: <ref>use</ref><box>(273,546),(511,995)</box>
+response: <ref>split</ref><box>(273,286),(378,407)</box>
+response: <ref>red</ref><box>(327,1),(462,407)</box>
+response: <ref>car</ref><box>(262,397),(331,456)</box>
+response: <ref>come</ref><box>(437,422),(579,552)</box>
+response: <ref>turn</ref><box>(437,422),(579,552)</box>
+response: <ref>go</ref><box>(437,422),(579,552)</box>
+response: <ref>tree</ref><box>(569,2),(794,515)</box>
+response: <ref>bird</ref><box>(513,447),(602,562)</box>
+response: <ref>begin</ref><box>(247,466),(999,999)</box>
+response: <ref>land</ref><box>(247,466),(999,999)</box>
+response: <ref>man</ref><box>(521,444),(706,989)</box>
+response: <ref>short</ref><box>(521,444),(706,989)</box>
+response: <ref>shirt</ref><box>(521,444),(706,989)</box>
+response: <ref>appear</ref><box>(521,444),(706,989)</box>
+response: <ref>gey</ref><box>(521,444),(706,989)</box>
+response: <ref>hand</ref><box>(346,3),(999,999)</box>
+response: <ref>clap</ref><box>(346,3),(999,999)</box>
+256it [16:42,  4.14s/it]257it [16:48,  4.58s/it]258it [16:50,  4.02s/it]259it [16:55,  4.23s/it]260it [16:57,  3.63s/it]261it [17:02,  3.96s/it]262it [17:04,  3.53s/it]263it [17:08,  3.45s/it]264it [17:14,  4.21s/it]265it [17:20,  4.83s/it]266it [17:25,  4.76s/it]267it [17:28,  4.31s/it]268it [17:31,  4.02s/it]269it [17:37,  4.54s/it]271it [17:40,  3.13s/it]272it [17:43,  3.20s/it]273it [17:48,  3.51s/it]274it [17:52,  3.68s/it]275it [17:57,  3.99s/it]276it [18:01,  4.19s/it]277it [18:06,  4.30s/it]278it [18:09,  4.02s/it]279it [18:14,  4.15s/it]280it [18:19,  4.60s/it]281it [18:25,  4.88s/it]282it [18:29,  4.54s/it]283it [18:33,  4.51s/it]284it [18:37,  4.48s/it]285it [18:40,  3.79s/it]287it [18:42,  2.53s/it]289it [18:48,  2.71s/it]290it [18:49,  2.34s/it]291it [18:52,  2.51s/it]292it [18:55,  2.72s/it]293it [18:59,  3.16s/it]294it [19:04,  3.51s/it]295it [19:07,  3.45s/it]296it [19:14,  4.48s/it]297it [19:20,  4.86s/it]298it [19:22,  4.08s/it]response: <ref> rock</ref><box>(625,765),(670,855)</box>
+response: <ref> people</ref><box>(938,443),(998,677)</box>
+response: <ref>hand</ref><box>(808,136),(999,340)</box>
+response: <ref>baby</ref><box>(118,6),(999,990)</box>
+response: <ref>red-sleeved</ref><box>(0,416),(363,999)</box>
+response: <ref>reach down</ref><box>(777,546),(999,999)</box>
+response: <ref>laptop</ref><box>(546,115),(996,413)</box>
+response: <ref>computer</ref><box>(809,114),(996,399)</box>
+response: <ref>bus</ref><box>(197,193),(999,999)</box>
+response: <ref>clip</ref><box>(197,193),(999,999)</box>
+response: <ref>decker</ref><box>(197,193),(999,999)</box>
+response: <ref>red double</ref><box>(197,193),(999,999)</box>
+response: <ref>flower</ref><box>(0,123),(239,483)</box>
+response: <ref>white</ref><box>(310,162),(452,576)</box>
+response: <ref> text</ref><box>(395,428),(578,486)</box>
+response: <ref> screen</ref><box>(223,389),(659,567)</box>
+response: <ref> black with blue</ref><box>(759,462),(949,586)</box>
+response: <ref> start</ref><box>(395,428),(578,486)</box>
+response: <ref> people</ref><box>(580,426),(651,733)</box><box>(560,462),(600,673)</box><box>(523,460),(568,662)</box>
+response: <ref> hair</ref><box>(1,394),(138,801)</box>
+response: <ref> gentleman</ref><box>(470,74),(743,996)</box>
+response: <ref> white</ref><box>(361,613),(557,795)</box>
+response: <ref>hat</ref><box>(327,584),(433,796)</box>
+response: <ref>person</ref><box>(583,642),(812,996)</box>
+response: <ref>view</ref><box>(3,5),(997,996)</box>
+response: <ref>black</ref><box>(808,562),(997,989)</box>
+response: <ref>exit</ref><box>(827,194),(997,584)</box>
+response: <ref> woman</ref><box>(66,324),(318,988)</box>
+response: <ref> scene</ref><box>(3,5),(995,995)</box>
+response: <ref> shirt</ref><box>(67,509),(288,991)</box>
+response: <ref> frame</ref><box>(1,3),(995,995)</box>
+response: <ref> walk</ref><box>(439,530),(995,995)</box>
+response: <ref> green</ref><box>(743,116),(823,190)</box>
+response: <ref> frisbee</ref><box>(677,181),(717,221)</box>
+response: <ref> man</ref><box>(302,433),(377,613)</box>
+response: <ref> building</ref><box>(233,603),(788,994)</box>
+response: <ref> throw</ref><box>(674,175),(724,221)</box>
+response: <ref>light</ref><box>(30,482),(897,988)</box>
+response: <ref>blue</ref><box>(278,566),(633,850)</box>
+response: <ref>shine</ref><box>(30,482),(897,988)</box>
+response: <ref> sidewalk</ref><box>(285,519),(968,962)</box>
+response: <ref> corner</ref><box>(285,519),(968,962)</box>
+response: <ref> box</ref><box>(285,519),(968,962)</box>
+response: <ref>chef</ref><box>(458,134),(729,886)</box>
+response: <ref>dough</ref><box>(1,445),(732,943)</box>
+response: <ref>roll</ref><box>(657,696),(721,810)</box>
+response: <ref>toss</ref><box>(731,298),(974,785)</box>
+response: <ref>plop</ref><box>(0,38),(236,981)</box>
+response: <ref> girl</ref><box>(358,465),(458,683)</box><box>(612,479),(700,713)</box>
+response: <ref> splash</ref><box>(364,582),(460,661)</box>
+response: <ref>coastline</ref><box>(337,224),(996,611)</box>
+response: <ref>dog</ref><box>(294,426),(348,536)</box>
+response: <ref>run</ref><box>(337,570),(614,991)</box>
+response: <ref> frisbee</ref><box>(103,265),(159,347)</box>
+response: <ref> man</ref><box>(379,408),(439,579)</box>
+response: <ref> building</ref><box>(3,387),(863,992)</box>
+response: <ref> throw</ref><box>(103,265),(159,347)</box>
+response: <ref> cave</ref><box>(3,5),(253,994)</box>
+response: <ref> view</ref><box>(117,11),(995,992)</box>
+response: <ref> wall</ref><box>(883,5),(996,995)</box>
+response: <ref> zoom out</ref><box>(113,11),(994,992)</box>
+response: <ref>fire</ref><box>(309,280),(351,333)</box>
+response: <ref>puff</ref><box>(374,224),(549,395)</box>
+response: <ref>stage</ref><box>(1,273),(995,663)</box>
+response: <ref>two small</ref><box>(407,516),(474,606)</box>
+response: <ref>head</ref><box>(106,10),(349,989)</box>
+response: <ref>hand</ref><box>(106,10),(349,989)</box>
+response: <ref>rise</ref><box>(507,354),(611,707)</box>
+response: <ref>clap</ref><box>(106,10),(349,989)</box>
+response: <ref>bus</ref><box>(508,243),(576,382)</box>
+response: <ref>decker</ref><box>(509,241),(576,385)</box>
+response: <ref>go</ref><box>(508,243),(576,382)</box>
+response: <ref>double</ref><box>(508,243),(576,382)</box>
+response: <ref>boy</ref><box>(494,479),(596,611)</box>
+response: <ref>slide</ref><box>(594,255),(754,431)</box>
+response: <ref>get up</ref><box>(494,479),(596,611)</box>
+response: <ref>camerawoman</ref><box>(1,572),(307,989)</box>
+response: <ref>cat</ref><box>(111,175),(999,975)</box>
+response: <ref>begin</ref><box>(111,175),(999,975)</box>
+response: <ref>pet</ref><box>(111,175),(999,975)</box>
+response: <ref> mountain</ref><box>(3,165),(997,992)</box>
+response: <ref> hiker</ref><box>(649,588),(679,637)</box>
+response: <ref> sky</ref><box>(0,0),(998,249)</box>
+response: <ref> beauty</ref><box>(11,141),(994,987)</box>
+response: <ref> observe</ref><box>(649,588),(679,637)</box>
+response: <ref>man</ref><box>(0,5),(166,989)</box>
+response: <ref>snow</ref><box>(445,410),(683,821)</box>
+response: <ref>jacket</ref><box>(0,119),(157,696)</box>
+response: <ref>show</ref><box>(379,584),(559,975)</box>
+response: <ref>red</ref><box>(11,216),(166,735)</box>
+response: <ref> hall</ref><box>(10,10),(994,993)</box>
+response: <ref> giant</ref><box>(807,772),(971,996)</box>
+response: <ref> picture</ref><box>(807,772),(971,996)</box>
+response: show
+list index out of range
+response: <ref>wood</ref><box>(602,335),(732,567)</box>
+response: <ref>people</ref><box>(20,312),(669,991)</box>
+response: <ref>burn</ref><box>(602,335),(732,567)</box>
+response: <ref>move</ref><box>(429,335),(659,991)</box>
+response: <ref>view</ref><box>(10,10),(991,991)</box>
+response: <ref>g</ref><box>(529,229),(626,653)</box>
+response: <ref>letter</ref><box>(533,233),(558,299)</box>
+response: <ref>slide</ref><box>(529,229),(626,653)</box>
+response: <ref>baby</ref><box>(83,188),(585,758)</box>
+response: <ref>lay</ref><box>(83,188),(585,758)</box>
+response: <ref>door</ref><box>(776,439),(873,679)</box>
+response: <ref>close</ref><box>(776,439),(873,679)</box>
+response: <ref> person</ref><box>(517,466),(567,547)</box>
+response: <ref> roof</ref><box>(786,519),(995,671)</box>
+response: <ref> disk</ref><box>(217,561),(321,682)</box>
+response: <ref> wear</ref><box>(42,825),(164,988)</box>
+response: <ref> throw</ref><box>(42,825),(164,988)</box>
+response: <ref> flame</ref><box>(372,29),(511,721)</box>
+response: <ref>operator</ref><box>(344,6),(760,893)</box>
+response: <ref>glass</ref><box>(1,869),(997,997)</box>
+response: <ref>reflection</ref><box>(344,6),(760,893)</box>
+response: <ref>bus</ref><box>(627,596),(744,725)</box>
+response: <ref>red</ref><box>(467,436),(503,502)</box>
+response: <ref>appear</ref><box>(379,233),(474,316)</box>
+response: <ref>man</ref><box>(195,0),(999,637)</box>
+response: <ref>screen</ref><box>(10,327),(519,936)</box>
+response: <ref>computer</ref><box>(10,327),(519,936)</box>
+response: <ref>point</ref><box>(211,545),(999,999)</box>
+response: <ref> hand</ref><box>(467,415),(953,713)</box>
+response: <ref> baby</ref><box>(86,5),(999,995)</box>
+response: <ref> red-sleeved</ref><box>(649,635),(998,997)</box>
+response: <ref> reach down</ref><box>(467,415),(953,713)</box>
+response: <ref> something</ref><box>(357,428),(449,588)</box>
+response: <ref> roof</ref><box>(377,565),(537,650)</box>
+response: <ref> throw</ref><box>(367,428),(444,588)</box>
+response: <ref> band</ref><box>(551,448),(736,996)</box><box>(278,113),(413,995)</box><box>(713,137),(910,995)</box>
+response: <ref> tender</ref><box>(413,837),(543,996)</box>
+response: <ref> bar</ref><box>(1,499),(319,996)</box>
+response: <ref> walk</ref><box>(413,837),(543,996)</box>
+response: <ref> return</ref><box>(469,837),(529,996)</box>
+response: <ref> someone</ref><box>(634,619),(912,985)</box>
+response: <ref> hand</ref><box>(634,619),(912,985)</box>
+response: <ref> cat</ref><box>(119,327),(999,988)</box>
+response: <ref> reach</ref><box>(634,619),(912,985)</box>
+response: <ref> pet</ref><box>(119,327),(999,988)</box>
+response: <ref>umbrella</ref><box>(258,526),(448,582)</box>
+response: <ref>white</ref><box>(636,506),(997,714)</box>
+299it [19:26,  3.90s/it]300it [19:31,  4.20s/it]301it [19:34,  4.06s/it]302it [19:40,  4.39s/it]303it [19:42,  3.78s/it]304it [19:44,  3.29s/it]305it [19:46,  2.96s/it]306it [19:48,  2.69s/it]307it [19:50,  2.52s/it]308it [19:54,  2.74s/it]309it [19:57,  2.94s/it]310it [20:03,  3.74s/it]311it [20:07,  3.91s/it]312it [20:10,  3.68s/it]313it [20:14,  3.86s/it]314it [20:17,  3.44s/it]316it [20:21,  2.93s/it]317it [20:26,  3.27s/it]318it [20:28,  3.01s/it]319it [20:29,  2.49s/it]320it [20:33,  2.75s/it]321it [20:39,  3.90s/it]322it [20:43,  3.69s/it]324it [20:52,  4.05s/it]325it [20:56,  4.16s/it]326it [20:58,  3.64s/it]327it [21:07,  4.91s/it]328it [21:12,  5.01s/it]329it [21:14,  4.30s/it]330it [21:18,  4.18s/it]331it [21:21,  3.90s/it]332it [21:28,  4.82s/it]333it [21:34,  5.08s/it]334it [21:40,  5.28s/it]335it [21:47,  5.83s/it]336it [21:55,  6.49s/it]337it [21:58,  5.53s/it]338it [22:00,  4.53s/it]339it [22:04,  4.29s/it]response: <ref>wind</ref><box>(359,237),(821,999)</box>
+response: <ref>jacket</ref><box>(359,237),(821,999)</box>
+response: <ref>flap</ref><box>(359,237),(821,999)</box>
+response: <ref>player</ref><box>(334,103),(632,984)</box>
+response: <ref>hand</ref><box>(394,387),(456,463)</box>
+response: <ref>briefly</ref><box>(331,103),(634,984)</box>
+response: <ref>raise</ref><box>(334,103),(634,984)</box>
+response: <ref>car</ref><box>(261,533),(443,799)</box>
+response: <ref>white</ref><box>(261,533),(443,799)</box>
+response: <ref>drive by</ref><box>(261,533),(443,799)</box>
+response: <ref>car</ref><box>(110,622),(296,838)</box>
+response: <ref>come</ref><box>(11,525),(146,837)</box>
+response: <ref>turn</ref><box>(420,53),(915,833)</box>
+response: <ref>go</ref><box>(11,525),(146,837)</box>
+response: <ref> violin</ref><box>(334,656),(528,835)</box>
+response: <ref> player</ref><box>(433,739),(703,985)</box>
+response: <ref>everybody</ref><box>(0,254),(682,999)</box>
+response: <ref>clap</ref><box>(0,254),(682,999)</box>
+response: <ref>earth</ref><box>(296,315),(657,714)</box>
+response: <ref>shape</ref><box>(539,482),(643,681)</box>
+response: <ref> sky</ref><box>(0,1),(998,105)</box>
+response: <ref> visible</ref><box>(379,383),(439,479)</box>
+response: <ref>fire</ref><box>(320,5),(503,845)</box>
+response: <ref>go bigger</ref><box>(553,643),(713,992)</box>
+response: <ref>cat</ref><box>(250,153),(739,993)</box>
+response: <ref>toy</ref><box>(720,724),(996,996)</box>
+response: <ref>bat</ref><box>(720,724),(996,996)</box>
+response: <ref>sun</ref><box>(517,613),(558,653)</box>
+response: <ref>horizon</ref><box>(424,613),(624,664)</box>
+response: <ref>peek</ref><box>(286,631),(340,683)</box>
+response: <ref> view</ref><box>(7,10),(993,988)</box>
+response: <ref> clip</ref><box>(557,519),(638,773)</box>
+response: <ref> dock</ref><box>(713,460),(809,532)</box>
+response: <ref> lake</ref><box>(0,720),(997,995)</box>
+response: <ref> change</ref><box>(551,522),(639,777)</box>
+response: <ref>sky</ref><box>(1,2),(998,995)</box>
+response: <ref>sun</ref><box>(534,39),(834,287)</box>
+response: <ref>cloud</ref><box>(457,821),(561,967)</box>
+response: <ref>blue</ref><box>(3,2),(997,995)</box>
+response: <ref> person</ref><box>(499,4),(994,713)</box>
+response: <ref> frame</ref><box>(10,10),(994,987)</box>
+response: <ref> leave</ref><box>(701,333),(841,452)</box>
+response: <ref>man</ref><box>(214,1),(999,807)</box>
+response: <ref>screen</ref><box>(39,368),(515,948)</box>
+response: <ref>computer</ref><box>(39,368),(515,948)</box>
+response: <ref>point</ref><box>(794,418),(999,999)</box>
+response: <ref>girl</ref><box>(0,5),(585,989)</box>
+response: <ref>look</ref><box>(329,385),(959,638)</box>
+response: <ref>man</ref><box>(3,5),(307,995)</box>
+response: <ref>sunglass</ref><box>(141,293),(257,434)</box>
+response: <ref>shirt</ref><box>(0,865),(551,999)</box>
+response: <ref>see</ref><box>(151,306),(253,423)</box>
+response: <ref>someone</ref><box>(340,0),(625,999)</box>
+response: <ref>time</ref><box>(184,714),(288,779)</box>
+response: <ref>frame</ref><box>(3,596),(132,988)</box>
+response: <ref>walk</ref><box>(106,10),(216,544)</box>
+response: <ref> person</ref><box>(338,439),(486,669)</box>
+response: <ref> swim</ref><box>(593,452),(699,705)</box>
+response: <ref>way</ref><box>(388,493),(520,686)</box>
+response: <ref> rock</ref><box>(348,195),(577,386)</box>
+response: <ref> wall</ref><box>(5,6),(996,995)</box>
+response: <ref> make</ref><box>(305,319),(419,551)</box>
+response: <ref> suit</ref><box>(331,394),(391,548)</box>
+response: <ref> person</ref><box>(472,519),(558,621)</box>
+response: <ref> ski</ref><box>(472,579),(559,623)</box>
+response: <ref> sled</ref><box>(473,577),(558,623)</box>
+response: <ref> black</ref><box>(472,517),(558,625)</box>
+response: <ref> stand</ref><box>(390,229),(431,484)</box>
+response: <ref> store</ref><box>(3,6),(997,996)</box>
+response: <ref> person</ref><box>(366,303),(592,997)</box>
+response: <ref> wheelchair</ref><box>(643,202),(733,370)</box>
+response: <ref>kid</ref><box>(450,456),(509,532)</box>
+response: <ref>suit</ref><box>(104,502),(173,649)</box>
+response: <ref>sled</ref><box>(451,459),(507,526)</box>
+response: <ref>snow</ref><box>(303,539),(423,689)</box>
+response: <ref>hill</ref><box>(303,539),(423,689)</box>
+response: <ref>slide</ref><box>(451,459),(507,526)</box>
+response: <ref>black snow</ref><box>(453,463),(503,526)</box>
+response: <ref>cover</ref><box>(313,539),(417,689)</box>
+response: <ref>paper</ref><box>(7,4),(994,995)</box>
+response: <ref>piece</ref><box>(357,223),(537,535)</box>
+response: <ref>appear</ref><box>(357,223),(537,535)</box>
+response: <ref>white</ref><box>(357,223),(537,535)</box>
+response: <ref>pole</ref><box>(738,0),(796,649)</box>
+response: <ref>lone</ref><box>(738,0),(796,649)</box>
+response: <ref>man</ref><box>(193,547),(450,996)</box>
+response: <ref>hat</ref><box>(193,547),(450,996)</box>
+response: <ref>backpack</ref><box>(834,724),(995,996)</box>
+response: <ref>coat</ref><box>(193,547),(450,996)</box>
+response: <ref>frame</ref><box>(193,547),(450,996)</box>
+response: <ref>walk</ref><box>(827,2),(995,547)</box>
+response: <ref>black</ref><box>(827,533),(995,996)</box>
+response: <ref>band</ref><box>(338,65),(703,927)</box>
+response: <ref>show</ref><box>(338,65),(703,927)</box>
+response: <ref>play</ref><box>(338,65),(703,927)</box>
+response: <ref>small</ref><box>(776,49),(958,712)</box>
+response: <ref>performer</ref><box>(348,413),(477,688)</box>
+response: <ref>sway</ref><box>(698,169),(865,531)</box>
+response: <ref>guitarist</ref><box>(333,362),(465,844)</box>
+response: <ref>grey</ref><box>(371,434),(436,835)</box>
+response: <ref>wear</ref><box>(371,434),(436,835)</box>
+response: <ref>bus</ref><box>(745,554),(835,668)</box>
+response: <ref>red</ref><box>(523,429),(553,476)</box>
+response: <ref>pass</ref><box>(465,613),(515,697)</box>
+response: <ref> woman</ref><box>(54,301),(325,995)</box>
+response: <ref> scene</ref><box>(3,5),(996,995)</box>
+response: <ref> shirt</ref><box>(54,483),(290,995)</box>
+response: <ref> frame</ref><box>(324,720),(942,889)</box>
+response: <ref> walk</ref><box>(357,522),(995,995)</box>
+response: <ref> green</ref><box>(618,65),(686,146)</box>
+response: <ref>man</ref><box>(168,64),(426,800)</box>
+response: <ref>dough</ref><box>(309,805),(503,991)</box>
+response: <ref>rope</ref><box>(0,740),(418,985)</box>
+response: <ref>glass</ref><box>(665,464),(709,594)</box>
+response: <ref>cut</ref><box>(555,737),(661,822)</box>
+response: <ref> person</ref><box>(361,443),(438,593)</box>
+response: <ref> roof</ref><box>(338,575),(558,677)</box>
+response: <ref> disk</ref><box>(84,237),(152,393)</box>
+response: <ref> wear</ref><box>(379,457),(428,537)</box>
+response: <ref> throw</ref><box>(379,443),(428,537)</box>
+response: <ref>scarf</ref><box>(339,305),(463,586)</box>
+response: <ref>exit</ref><box>(679,3),(995,996)</box>
+response: <ref>frame</ref><box>(679,3),(995,996)</box>
+response: <ref>woman</ref><box>(333,163),(477,988)</box>
+response: <ref>exit</ref><box>(679,3),(995,996)</box>
+response: <ref>leave</ref><box>(679,3),(995,996)</box>
+response: <ref>car</ref><box>(261,374),(354,452)</box>
+response: <ref>wall</ref><box>(344,133),(996,594)</box>
+response: <ref>shirt</ref><box>(379,11),(478,151)</box>
+response: <ref>woman</ref><box>(369,0),(496,359)</box>
+response: <ref>green</ref><box>(261,374),(354,452)</box>
+response: <ref>red</ref><box>(379,0),(478,151)</box>
+response: <ref>stick</ref><box>(303,125),(386,228)</box>
+response: <ref>sun</ref><box>(639,203),(829,412)</box>
+response: <ref>horizon</ref><box>(0,368),(999,420)</box>
+response: <ref>appear</ref><box>(177,359),(353,533)</box>
+response: <ref>hand</ref><box>(486,16),(998,988)</box>
+response: <ref>clap</ref><box>(720,16),(956,524)</box>
+response: <ref>person</ref><box>(749,591),(999,989)</box>
+response: <ref>baby</ref><box>(143,7),(999,998)</box>
+response: <ref>tickle</ref><box>(749,591),(999,989)</box>
+response: <ref> silver</ref><box>(232,736),(617,997)</box>
+response: <ref> bowl</ref><box>(232,736),(617,997)</box>
+response: <ref> floor</ref><box>(217,11),(781,999)</box>
+response: <ref> meal</ref><box>(369,793),(539,985)</box>
+340it [22:14,  6.02s/it]341it [22:17,  4.88s/it]342it [22:20,  4.45s/it]343it [22:27,  5.20s/it]344it [22:30,  4.53s/it]345it [22:38,  5.58s/it]346it [22:43,  5.52s/it]349it [22:45,  2.68s/it]350it [22:53,  3.82s/it]351it [22:57,  3.95s/it]352it [22:59,  3.50s/it]353it [23:04,  3.85s/it]354it [23:06,  3.41s/it]355it [23:10,  3.49s/it]356it [23:14,  3.62s/it]357it [23:18,  3.73s/it]358it [23:22,  3.85s/it]359it [23:27,  4.07s/it]360it [23:30,  3.80s/it]361it [23:36,  4.47s/it]362it [23:39,  4.11s/it]363it [23:44,  4.27s/it]364it [23:46,  3.65s/it]365it [23:49,  3.57s/it]366it [23:56,  4.36s/it]367it [23:57,  3.39s/it]368it [24:02,  3.92s/it]369it [24:08,  4.47s/it]370it [24:10,  3.79s/it]371it [24:12,  3.40s/it]372it [24:18,  4.05s/it]373it [24:26,  5.29s/it]374it [24:32,  5.45s/it]375it [24:35,  4.75s/it]376it [24:41,  5.05s/it]377it [24:44,  4.49s/it]378it [24:45,  3.57s/it]379it [24:55,  5.29s/it]response: <ref> dog</ref><box>(217,423),(547,939)</box>
+response: <ref> big</ref><box>(279,0),(575,636)</box>
+response: <ref> black</ref><box>(217,423),(547,939)</box>
+response: <ref> chow</ref><box>(217,423),(547,939)</box>
+response: <ref> collection</ref><box>(2,3),(999,994)</box>
+response: <ref> rock</ref><box>(259,288),(373,547)</box>
+response: <ref> hall</ref><box>(479,105),(992,310)</box>
+response: <ref> giant</ref><box>(895,352),(998,995)</box>
+response: <ref> sign</ref><box>(153,357),(769,993)</box>
+response: <ref>man</ref><box>(90,0),(999,847)</box>
+response: <ref>sleeve</ref><box>(284,2),(756,503)</box>
+response: <ref>screen</ref><box>(125,252),(338,764)</box>
+response: <ref>computer</ref><box>(125,252),(338,764)</box>
+response: <ref>point</ref><box>(546,876),(626,988)</box>
+response: <ref>black</ref><box>(843,338),(999,999)</box>
+response: <ref> girl</ref><box>(358,475),(504,723)</box><box>(610,487),(703,720)</box>
+response: <ref> splash</ref><box>(452,563),(526,711)</box>
+response: <ref>instrument</ref><box>(268,322),(460,723)</box>
+response: <ref>person</ref><box>(258,108),(623,993)</box>
+response: <ref>people</ref><box>(258,108),(623,993)</box>
+response: <ref>play</ref><box>(268,322),(460,723)</box>
+response: <ref>two</ref><box>(517,67),(728,604)</box>
+response: <ref>stand</ref><box>(887,743),(997,993)</box>
+response: <ref>talk</ref><box>(517,67),(728,604)</box>
+response: <ref>view</ref><box>(7,7),(995,993)</box>
+response: <ref>clip</ref><box>(559,539),(631,772)</box>
+response: <ref>dock</ref><box>(239,438),(339,570)</box>
+response: <ref>lake</ref><box>(1,722),(996,995)</box>
+response: <ref>change</ref><box>(395,26),(535,735)</box>
+response: <ref>violinist</ref><box>(188,678),(333,986)</box>
+response: <ref>sort</ref><box>(259,76),(626,974)</box>
+response: <ref>dealing</ref><box>(167,47),(322,778)</box>
+response: <ref>business</ref><box>(31,57),(172,797)</box>
+response: <ref>guy</ref><box>(522,29),(729,971)</box>
+response: <ref>conversation</ref><box>(259,76),(626,974)</box>
+response: <ref>have</ref><box>(167,47),(322,778)</box>
+response: <ref> person</ref><box>(333,237),(591,996)</box>
+response: <ref> fist</ref><box>(358,263),(414,353)</box>
+response: <ref> fashion</ref><box>(333,237),(591,996)</box>
+response: <ref> pump</ref><box>(553,635),(683,996)</box>
+response: <ref>hand</ref><box>(9,10),(303,988)</box>
+response: <ref>clap</ref><box>(237,164),(293,266)</box>
+response: <ref> light</ref><box>(383,626),(600,918)</box>
+response: <ref> red</ref><box>(259,799),(416,933)</box>
+response: <ref> turn</ref><box>(259,799),(416,933)</box>
+response: <ref> blue</ref><box>(133,631),(209,783)</box>
+response: <ref>snowflake</ref><box>(512,649),(731,953)</box>
+response: <ref>large</ref><box>(513,651),(729,948)</box>
+response: <ref>view</ref><box>(3,5),(997,991)</box>
+response: <ref>fence</ref><box>(1,378),(999,928)</box>
+response: <ref>come</ref><box>(369,613),(529,803)</box>
+response: <ref>player</ref><box>(522,194),(748,894)</box>
+response: <ref>marimba</ref><box>(1,512),(585,762)</box>
+response: <ref>play</ref><box>(237,412),(547,567)</box>
+response: <ref>car</ref><box>(918,468),(997,599)</box>
+response: <ref>white</ref><box>(918,468),(997,599)</box>
+response: <ref>drive by</ref><box>(234,482),(338,659)</box>
+response: <ref> singer</ref><box>(218,66),(388,989)</box>
+response: <ref> microphone</ref><box>(218,147),(278,232)</box>
+response: <ref> grab</ref><box>(763,462),(865,905)</box>
+response: <ref>rock</ref><box>(233,735),(368,834)</box>
+response: <ref>wall</ref><box>(233,295),(825,451)</box>
+response: <ref>view</ref><box>(233,295),(825,451)</box>
+response: <ref>exit</ref><box>(233,295),(825,451)</box>
+response: <ref> ground</ref><box>(2,5),(997,995)</box>
+response: <ref> land</ref><box>(239,323),(997,996)</box>
+response: <ref> bird</ref><box>(243,401),(409,575)</box>
+response: <ref>hand</ref><box>(449,633),(546,755)</box>
+response: <ref>gentleman</ref><box>(338,292),(591,986)</box>
+response: <ref>gesture</ref><box>(449,633),(546,755)</box>
+response: <ref>talk</ref><box>(449,633),(546,755)</box>
+response: <ref>make</ref><box>(449,633),(546,755)</box>
+response: <ref>train</ref><box>(106,444),(369,626)</box>
+response: <ref>bridge</ref><box>(22,231),(539,624)</box>
+response: <ref>pass</ref><box>(13,223),(535,634)</box>
+response: <ref>head</ref><box>(664,882),(728,982)</box>
+response: <ref>hand</ref><box>(579,386),(623,440)</box>
+response: <ref>rise</ref><box>(464,449),(523,674)</box>
+response: <ref>clap</ref><box>(633,549),(669,596)</box>
+response: <ref>snowflake</ref><box>(388,316),(516,538)</box>
+response: <ref>large</ref><box>(690,28),(999,952)</box>
+response: <ref>head</ref><box>(212,230),(301,393)</box>
+response: <ref>man</ref><box>(212,230),(301,393)</box>
+response: <ref>scarf</ref><box>(1,332),(143,999)</box>
+response: <ref>guy</ref><box>(58,3),(388,944)</box>
+response: <ref>shirt</ref><box>(144,1),(352,443)</box>
+response: <ref>go</ref><box>(599,499),(678,550)</box>
+response: <ref>play</ref><box>(605,213),(666,271)</box>
+response: <ref>pink</ref><box>(337,110),(426,686)</box>
+response: <ref> flame</ref><box>(1,5),(158,668)</box>
+response: <ref> paper</ref><box>(329,106),(409,396)</box>
+response: <ref> piece</ref><box>(329,106),(409,396)</box>
+response: <ref> appear</ref><box>(329,106),(409,396)</box>
+response: <ref> white</ref><box>(329,106),(409,396)</box>
+response: <ref>view</ref><box>(0,144),(457,995)</box>
+response: <ref>sun</ref><box>(536,602),(586,652)</box>
+response: <ref>water</ref><box>(431,812),(483,900)</box>
+response: <ref>rise</ref><box>(536,602),(586,652)</box>
+response: <ref>come</ref><box>(536,602),(586,652)</box>
+response: <ref>light</ref><box>(633,101),(996,611)</box>
+response: <ref>bright</ref><box>(261,126),(995,996)</box>
+response: <ref> someone</ref><box>(306,548),(648,997)</box>
+response: <ref> bend</ref><box>(381,92),(738,994)</box>
+response: stand
+list index out of range
+response: <ref> man</ref><box>(223,145),(755,996)</box>
+response: <ref> stand</ref><box>(543,519),(859,999)</box>
+response: <ref> microphone</ref><box>(233,253),(386,300)</box>
+response: <ref> adjust</ref><box>(11,267),(328,996)</box>
+response: <ref> stand</ref><box>(543,519),(859,999)</box>
+response: <ref> shirt</ref><box>(439,336),(582,561)</box>
+response: <ref> arm</ref><box>(437,367),(493,560)</box>
+response: <ref> person</ref><box>(434,262),(585,864)</box>
+response: <ref> vest</ref><box>(449,333),(578,557)</box>
+response: <ref> white long sleeved</ref><box>(439,333),(582,561)</box>
+response: <ref> lift</ref><box>(441,262),(585,864)</box>
+response: <ref> black</ref><box>(434,523),(539,827)</box>
+response: <ref> hand</ref><box>(429,362),(507,433)</box>
+response: <ref> guy</ref><box>(348,135),(663,996)</box>
+response: <ref> guitar</ref><box>(379,306),(663,549)</box>
+response: <ref> play</ref><box>(373,303),(665,547)</box>
+response: <ref> raise</ref><box>(348,135),(663,996)</box>
+response: <ref> person</ref><box>(20,4),(957,993)</box>
+response: <ref> baby</ref><box>(20,4),(957,993)</box>
+response: <ref> tickle</ref><box>(20,4),(957,993)</box>
+response: <ref>hat</ref><box>(156,303),(209,363)</box>
+response: <ref>people</ref><box>(318,313),(443,505)</box>
+response: <ref>koala</ref><box>(403,345),(557,541)</box>
+response: <ref>two</ref><box>(318,313),(443,505)</box>
+response: <ref>approach</ref><box>(339,533),(729,633)</box>
+response: <ref>text</ref><box>(218,93),(548,549)</box>
+response: <ref>screen</ref><box>(117,27),(618,624)</box>
+response: <ref>change</ref><box>(249,103),(339,175)</box>
+response: <ref>dog</ref><box>(142,47),(996,979)</box>
+response: mouth
+list index out of range
+response: <ref> man</ref><box>(294,227),(753,999)</box>
+response: <ref> microphone</ref><box>(249,318),(408,378)</box>
+response: <ref> arm</ref><box>(649,416),(753,573)</box>
+response: <ref> hand</ref><box>(300,531),(386,570)</box>
+response: <ref> desk</ref><box>(13,556),(993,996)</box>
+response: <ref> grab</ref><box>(554,630),(666,745)</box>
+response: <ref> stretch</ref><box>(547,631),(666,746)</box>
+response: <ref> left</ref><box>(554,631),(666,746)</box>
+response: <ref>man</ref><box>(204,249),(797,999)</box>
+380it [24:57,  4.49s/it]381it [24:59,  3.64s/it]382it [25:05,  4.44s/it]383it [25:08,  3.90s/it]384it [25:15,  4.82s/it]385it [25:19,  4.47s/it]386it [25:22,  4.10s/it]387it [25:25,  3.93s/it]388it [25:30,  4.06s/it]389it [25:33,  3.86s/it]390it [25:36,  3.72s/it]391it [25:40,  3.60s/it]392it [25:46,  4.23s/it]393it [25:48,  3.63s/it]394it [25:50,  3.14s/it]395it [25:56,  4.08s/it]396it [26:08,  6.37s/it]397it [26:12,  5.74s/it]398it [26:17,  5.57s/it]399it [26:24,  5.90s/it]400it [26:27,  5.13s/it]401it [26:29,  4.25s/it]402it [26:32,  3.74s/it]403it [26:36,  3.71s/it]404it [26:42,  4.63s/it]405it [26:48,  4.93s/it]406it [26:51,  4.40s/it]407it [26:56,  4.44s/it]408it [26:58,  3.78s/it]409it [27:00,  3.34s/it]410it [27:06,  3.94s/it]411it [27:10,  4.10s/it]412it [27:13,  3.87s/it]413it [27:15,  3.32s/it]414it [27:20,  3.70s/it]415it [27:26,  4.32s/it]416it [27:30,  4.41s/it]417it [27:35,  4.40s/it]419it [27:39,  3.40s/it]response: <ref>move close</ref><box>(204,249),(797,999)</box>
+response: <ref> sail</ref><box>(574,245),(996,996)</box>
+response: see
+list index out of range
+response: <ref>sunglass</ref><box>(479,475),(558,538)</box>
+response: <ref>scarf</ref><box>(439,508),(584,634)</box>
+response: <ref>woman</ref><box>(320,364),(616,812)</box>
+response: <ref>red</ref><box>(320,364),(616,812)</box>
+response: <ref>dance</ref><box>(319,364),(616,812)</box>
+response: <ref>cat</ref><box>(303,503),(763,996)</box>
+response: <ref>lay</ref><box>(167,2),(994,997)</box>
+response: <ref> dress</ref><box>(624,773),(690,950)</box>
+response: <ref> car</ref><box>(188,563),(423,802)</box>
+response: <ref> woman</ref><box>(728,800),(822,995)</box>
+response: <ref> red</ref><box>(898,910),(956,995)</box>
+response: <ref> white</ref><box>(613,490),(802,613)</box>
+response: <ref> walk</ref><box>(451,675),(501,833)</box>
+response: <ref> hand</ref><box>(785,71),(950,257)</box>
+response: <ref> baby</ref><box>(117,4),(968,993)</box>
+response: <ref> tickle</ref><box>(117,4),(968,993)</box>
+response: <ref>sun</ref><box>(502,603),(530,644)</box>
+response: <ref>horizon</ref><box>(11,636),(607,713)</box>
+response: <ref>peek</ref><box>(1,149),(468,994)</box>
+response: <ref> person</ref><box>(415,550),(456,667)</box>
+response: <ref> stage</ref><box>(100,333),(872,679)</box>
+response: <ref> headbang</ref><box>(379,547),(418,660)</box>
+response: <ref>man</ref><box>(195,0),(999,637)</box>
+response: <ref>screen</ref><box>(195,0),(999,637)</box>
+response: <ref>computer</ref><box>(21,316),(550,913)</box>
+response: <ref>point</ref><box>(195,0),(999,637)</box>
+response: <ref>person</ref><box>(277,564),(362,669)</box>
+response: <ref>sled</ref><box>(821,125),(871,203)</box>
+response: <ref>get off</ref><box>(277,564),(362,669)</box>
+response: <ref>suit</ref><box>(528,503),(997,998)</box>
+response: <ref>girl</ref><box>(271,186),(999,999)</box>
+response: <ref>pink and white bathing</ref><box>(528,503),(997,998)</box>
+response: <ref> he</ref><box>(247,148),(761,996)</box>
+response: <ref> microphone</ref><box>(270,254),(409,301)</box>
+response: <ref> grab</ref><box>(33,478),(969,553)</box>
+response: <ref>dress</ref><box>(127,434),(265,910)</box>
+response: <ref>state</ref><box>(127,434),(265,910)</box>
+response: <ref>girl</ref><box>(127,339),(265,912)</box>
+response: <ref>blue</ref><box>(127,434),(265,910)</box>
+response: <ref>walk</ref><box>(127,434),(265,910)</box>
+response: <ref>light</ref><box>(469,855),(503,915)</box>
+response: <ref>blink</ref><box>(383,363),(423,438)</box>
+response: <ref> view</ref><box>(11,6),(992,990)</box>
+response: <ref> screen</ref><box>(585,7),(959,537)</box>
+response: <ref>dress</ref><box>(393,399),(516,739)</box>
+response: <ref>frame</ref><box>(0,0),(126,141)</box>
+response: <ref>woman</ref><box>(393,301),(516,841)</box>
+response: <ref>red</ref><box>(393,399),(516,739)</box>
+response: <ref>sit</ref><box>(619,492),(919,999)</box>
+response: <ref> man</ref><box>(87,479),(208,840)</box>
+response: <ref> ground</ref><box>(577,739),(689,884)</box>
+response: <ref> shirt</ref><box>(113,539),(177,649)</box>
+response: <ref> driveway</ref><box>(293,684),(913,994)</box>
+response: <ref> car</ref><box>(847,516),(930,629)</box>
+response: <ref> ring</ref><box>(149,639),(189,699)</box>
+response: <ref> put</ref><box>(352,534),(412,699)</box>
+response: <ref> yellow</ref><box>(109,624),(153,709)</box>
+response: <ref> drive</ref><box>(287,684),(916,994)</box>
+response: <ref>rock</ref><box>(131,743),(311,927)</box>
+response: <ref>wall</ref><box>(537,251),(777,395)</box>
+response: <ref>view</ref><box>(31,38),(960,969)</box>
+response: <ref>exit</ref><box>(33,51),(967,969)</box>
+response: <ref> sport</ref><box>(3,7),(996,994)</box>
+response: <ref> ice</ref><box>(0,233),(999,997)</box>
+response: <ref> woman</ref><box>(393,142),(741,772)</box>
+response: <ref> two</ref><box>(578,2),(663,168)</box>
+response: <ref> practice</ref><box>(3,7),(996,994)</box>
+response: <ref>man</ref><box>(2,6),(728,988)</box>
+response: <ref>pan</ref><box>(600,642),(998,996)</box>
+response: <ref>screen</ref><box>(600,642),(998,996)</box>
+response: <ref>computer</ref><box>(600,642),(998,996)</box>
+response: <ref>talk</ref><box>(600,642),(998,996)</box>
+response: <ref>show</ref><box>(600,642),(998,996)</box>
+response: <ref>type</ref><box>(298,526),(863,742)</box>
+response: <ref>chapel</ref><box>(2,363),(137,703)</box>
+response: <ref>building</ref><box>(298,526),(863,742)</box>
+response: <ref> entrance</ref><box>(427,293),(556,373)</box>
+response: <ref> tunnel</ref><box>(427,293),(556,373)</box>
+response: <ref> fire</ref><box>(406,144),(592,795)</box>
+response: <ref> go bigger</ref><box>(406,144),(592,795)</box>
+response: <ref> person</ref><box>(681,469),(733,711)</box>
+response: <ref> bend down</ref><box>(681,469),(733,711)</box>
+response: <ref> stand up</ref><box>(681,469),(733,711)</box>
+response: <ref> arm</ref><box>(183,260),(218,403)</box>
+response: <ref> man</ref><box>(533,349),(620,785)</box>
+response: <ref> stage</ref><box>(17,21),(989,988)</box>
+response: <ref> step</ref><box>(183,183),(531,724)</box>
+response: <ref> wave</ref><box>(357,394),(467,530)</box>
+response: <ref> center</ref><box>(337,399),(477,703)</box>
+response: <ref>hat</ref><box>(189,558),(433,999)</box>
+response: <ref>person</ref><box>(359,733),(676,999)</box>
+response: <ref>view</ref><box>(359,733),(676,999)</box>
+response: <ref>black</ref><box>(189,558),(433,999)</box>
+response: <ref>exit</ref><box>(828,531),(999,999)</box>
+response: <ref> sky</ref><box>(5,10),(994,728)</box>
+response: <ref> view</ref><box>(7,10),(994,989)</box>
+response: <ref> cloud</ref><box>(404,581),(469,662)</box>
+response: <ref> frame</ref><box>(247,123),(429,989)</box>
+response: <ref> chair</ref><box>(588,782),(739,994)</box>
+response: <ref> show</ref><box>(719,287),(942,994)</box>
+response: <ref> move</ref><box>(557,478),(739,994)</box>
+response: <ref>girl</ref><box>(358,487),(538,733)</box>
+response: <ref>point</ref><box>(618,499),(718,765)</box>
+response: <ref> bird</ref><box>(401,384),(590,557)</box>
+response: <ref> leave</ref><box>(600,3),(930,457)</box>
+response: <ref> woman</ref><box>(486,6),(949,836)</box>
+response: <ref> screen</ref><box>(0,3),(991,843)</box>
+response: <ref> hand</ref><box>(160,710),(243,793)</box>
+response: <ref> hip</ref><box>(585,639),(749,836)</box>
+response: <ref> put</ref><box>(169,712),(238,792)</box>
+response: <ref>head</ref><box>(452,856),(724,999)</box>
+response: <ref>hand</ref><box>(546,815),(680,926)</box>
+response: <ref>person</ref><box>(756,689),(916,983)</box>
+response: <ref>place</ref><box>(146,114),(987,983)</box>
+response: <ref>they</ref><box>(368,398),(498,665)</box>
+response: <ref>left</ref><box>(84,487),(205,690)</box>
+response: <ref>go</ref><box>(708,164),(895,559)</box>
+response: <ref> screen</ref><box>(313,0),(522,999)</box>
+response: <ref> boss</ref><box>(324,33),(537,999)</box>
+response: <ref>dog</ref><box>(349,199),(998,802)</box>
+response: <ref>foot</ref><box>(349,666),(456,740)</box>
+response: <ref>leash</ref><box>(612,349),(672,584)</box>
+response: <ref>lift</ref><box>(596,599),(656,684)</box>
+response: <ref> sunglass</ref><box>(263,386),(353,444)</box>
+response: <ref> scarf</ref><box>(269,434),(479,769)</box>
+response: <ref> woman</ref><box>(179,299),(483,787)</box>
+response: <ref> red</ref><box>(269,434),(479,769)</box>
+response: <ref> dance</ref><box>(269,434),(479,769)</box>
+response: <ref>bubble</ref><box>(415,154),(686,399)</box>
+response: <ref>gear</ref><box>(389,143),(696,382)</box>
+response: <ref>scuba</ref><box>(399,143),(691,394)</box>
+response: <ref>escape</ref><box>(399,143),(691,394)</box>
+response: <ref> arm</ref><box>(313,306),(373,671)</box>
+response: <ref> screen</ref><box>(303,10),(531,991)</box>
+response: <ref> person</ref><box>(311,133),(461,988)</box>
+response: <ref> raise</ref><box>(321,125),(471,991)</box>
+response: <ref> screen</ref><box>(324,399),(666,578)</box>
+response: <ref> circle</ref><box>(402,399),(659,562)</box>
+response: <ref> bunch</ref><box>(566,532),(783,678)</box>
+response: <ref> change</ref><box>(402,399),(659,562)</box>
+response: <ref>performer</ref><box>(688,62),(939,521)</box>
+420it [27:42,  3.25s/it]421it [27:45,  3.16s/it]422it [27:49,  3.28s/it]423it [27:54,  3.97s/it]424it [27:55,  3.13s/it]425it [28:02,  4.21s/it]426it [28:04,  3.63s/it]427it [28:08,  3.57s/it]428it [28:13,  4.09s/it]429it [28:16,  3.87s/it]430it [28:22,  4.28s/it]431it [28:25,  3.99s/it]432it [28:30,  4.29s/it]433it [28:35,  4.62s/it]434it [28:39,  4.36s/it]435it [28:45,  4.76s/it]436it [28:48,  4.31s/it]437it [28:52,  4.33s/it]438it [28:56,  4.11s/it]439it [29:02,  4.77s/it]440it [29:06,  4.40s/it]441it [29:13,  5.25s/it]442it [29:19,  5.48s/it]443it [29:21,  4.51s/it]444it [29:26,  4.39s/it]445it [29:29,  4.06s/it]446it [29:31,  3.52s/it]447it [29:36,  3.83s/it]448it [29:41,  4.30s/it]449it [29:46,  4.60s/it]450it [29:49,  3.89s/it]452it [29:54,  3.42s/it]453it [29:58,  3.54s/it]454it [30:01,  3.43s/it]455it [30:07,  4.01s/it]456it [30:13,  4.46s/it]457it [30:18,  4.69s/it]458it [30:21,  4.29s/it]response: <ref>sway</ref><box>(355,404),(531,713)</box>
+response: <ref> animal</ref><box>(188,376),(594,882)</box>
+response: <ref> step</ref><box>(188,376),(594,882)</box>
+response: take
+list index out of range
+response: <ref> screen</ref><box>(322,554),(405,636)</box>
+response: <ref> people</ref><box>(53,504),(992,992)</box>
+response: <ref> walk</ref><box>(103,895),(178,992)</box>
+response: <ref> dress</ref><box>(308,446),(429,862)</box>
+response: <ref> state</ref><box>(308,446),(429,862)</box>
+response: <ref> girl</ref><box>(214,839),(353,992)</box>
+response: <ref> blue</ref><box>(308,446),(429,862)</box>
+response: <ref> walk</ref><box>(308,446),(429,862)</box>
+response: <ref>way</ref><box>(3,622),(623,994)</box>
+response: <ref> woman</ref><box>(368,393),(997,993)</box>
+response: <ref> scene</ref><box>(10,11),(991,987)</box>
+response: <ref> frame</ref><box>(377,393),(997,993)</box>
+response: <ref> dress</ref><box>(377,393),(997,993)</box>
+response: <ref> come</ref><box>(375,393),(997,993)</box>
+response: <ref> black</ref><box>(375,393),(997,993)</box>
+response: <ref>length</ref><box>(414,397),(506,769)</box>
+response: <ref>line</ref><box>(183,372),(335,839)</box>
+response: <ref>corner</ref><box>(743,536),(997,986)</box>
+response: <ref>cloud</ref><box>(212,13),(996,595)</box>
+response: <ref>big</ref><box>(209,13),(997,596)</box>
+response: <ref>laptop</ref><box>(670,556),(745,656)</box>
+response: <ref>man</ref><box>(596,329),(739,971)</box>
+response: <ref>tie</ref><box>(646,439),(679,556)</box>
+response: <ref>touch</ref><box>(364,719),(461,873)</box>
+response: <ref> man</ref><box>(347,393),(651,758)</box>
+response: <ref> plane</ref><box>(73,11),(945,915)</box>
+response: <ref> parachute</ref><box>(347,655),(452,881)</box>
+response: <ref> view</ref><box>(6,7),(994,992)</box>
+response: <ref> people</ref><box>(575,468),(620,677)</box><box>(636,435),(702,745)</box>
+response: <ref> pan down</ref><box>(205,487),(538,783)</box>
+response: <ref> come</ref><box>(609,458),(649,678)</box>
+response: <ref> something</ref><box>(378,409),(442,575)</box>
+response: <ref> roof</ref><box>(392,575),(552,675)</box>
+response: <ref> throw</ref><box>(378,409),(442,575)</box>
+response: <ref> someone</ref><box>(520,4),(996,995)</box>
+response: <ref> time</ref><box>(113,1),(413,537)</box>
+response: <ref> frame</ref><box>(113,1),(413,537)</box>
+response: <ref> walk</ref><box>(520,4),(996,995)</box>
+response: <ref> stop</ref><box>(247,494),(839,789)</box>
+response: <ref> car</ref><box>(247,494),(839,789)</box>
+response: <ref> red</ref><box>(247,494),(839,789)</box>
+response: <ref> stop</ref><box>(247,494),(839,789)</box>
+response: <ref> movement</ref><box>(468,745),(749,994)</box>
+response: <ref> sun</ref><box>(649,179),(827,412)</box>
+response: <ref> water</ref><box>(463,538),(591,735)</box>
+response: <ref>hand</ref><box>(778,256),(999,989)</box>
+response: <ref>gentleman</ref><box>(423,308),(603,999)</box>
+response: <ref>gesture</ref><box>(778,256),(999,989)</box>
+response: <ref>talk</ref><box>(778,256),(999,989)</box>
+response: <ref>make</ref><box>(778,256),(999,989)</box>
+response: <ref>view</ref><box>(522,173),(737,997)</box>
+response: <ref>person</ref><box>(1,303),(292,986)</box>
+response: <ref>come</ref><box>(363,655),(583,996)</box>
+response: <ref> sunglass</ref><box>(1,466),(103,562)</box>
+response: <ref> guy</ref><box>(457,54),(684,939)</box>
+response: <ref> foreground</ref><box>(1,163),(103,999)</box>
+response: <ref> wear</ref><box>(539,151),(683,426)</box>
+response: <ref> screen</ref><box>(101,20),(588,623)</box>
+response: <ref> lecturer</ref><box>(598,323),(726,984)</box>
+response: <ref> step</ref><box>(599,324),(726,984)</box>
+response: <ref> person</ref><box>(347,567),(391,681)</box>
+response: <ref> shirt</ref><box>(349,596),(389,665)</box>
+response: <ref> wear</ref><box>(347,596),(389,665)</box>
+response: <ref> stop</ref><box>(349,596),(389,665)</box>
+response: <ref> jump</ref><box>(349,596),(389,665)</box>
+response: <ref>arm</ref><box>(723,179),(767,293)</box>
+response: <ref>person</ref><box>(723,179),(767,293)</box>
+response: <ref>move</ref><box>(723,179),(767,293)</box>
+response: <ref>man</ref><box>(176,0),(999,980)</box>
+response: <ref>sleeve</ref><box>(812,418),(999,982)</box>
+response: <ref>screen</ref><box>(11,356),(236,860)</box>
+response: <ref>computer</ref><box>(11,356),(236,860)</box>
+response: <ref>point</ref><box>(812,418),(999,982)</box>
+response: <ref>black</ref><box>(812,418),(999,982)</box>
+response: <ref> man</ref><box>(49,175),(672,999)</box>
+response: <ref> stand</ref><box>(10,516),(820,999)</box>
+response: <ref> microphone</ref><box>(233,274),(351,343)</box>
+response: <ref> adjust</ref><box>(11,516),(820,999)</box>
+response: <ref> stand</ref><box>(10,516),(820,999)</box>
+response: <ref>firework</ref><box>(550,540),(659,628)</box>
+response: <ref>shoot</ref><box>(179,305),(379,452)</box>
+response: <ref>light</ref><box>(437,811),(473,894)</box><box>(369,800),(406,884)</box>
+response: <ref>blue</ref><box>(275,567),(651,865)</box>
+response: <ref>shine</ref><box>(437,811),(473,894)</box>
+response: <ref>dog</ref><box>(267,428),(302,529)</box>
+response: <ref>beach</ref><box>(1,179),(997,994)</box>
+response: <ref>run</ref><box>(267,428),(302,529)</box>
+response: <ref>firework</ref><box>(528,409),(857,829)</box>
+response: <ref>shoot</ref><box>(307,333),(417,797)</box>
+response: <ref>brick</ref><box>(327,264),(368,311)</box>
+response: <ref>couple</ref><box>(579,564),(629,709)</box>
+response: <ref>wall</ref><box>(32,167),(137,308)</box>
+response: <ref>dress</ref><box>(577,586),(629,695)</box>
+response: <ref>hat</ref><box>(327,592),(420,670)</box>
+response: <ref>man</ref><box>(806,570),(997,996)</box>
+response: <ref>view</ref><box>(17,19),(997,996)</box>
+response: <ref>old</ref><box>(3,524),(250,996)</box>
+response: <ref>walk</ref><box>(827,730),(995,996)</box>
+response: <ref>water</ref><box>(4,5),(997,996)</box>
+response: <ref>hair</ref><box>(0,138),(453,979)</box>
+response: <ref>girl</ref><box>(1,133),(997,995)</box>
+response: <ref>long</ref><box>(541,359),(761,587)</box>
+response: <ref>stand</ref><box>(847,113),(951,327)</box>
+response: <ref>hand</ref><box>(489,679),(999,989)</box>
+response: <ref>clap</ref><box>(489,679),(999,989)</box>
+response: <ref>hat</ref><box>(284,132),(740,295)</box>
+response: <ref>child</ref><box>(1,132),(924,860)</box>
+response: <ref>screen</ref><box>(0,1),(995,999)</box>
+response: <ref>something</ref><box>(437,479),(605,633)</box>
+response: <ref>point</ref><box>(437,479),(605,633)</box>
+response: <ref>car</ref><box>(138,435),(998,865)</box><box>(1,274),(591,584)</box>
+response: <ref>red</ref><box>(138,435),(998,865)</box>
+response: <ref>race</ref><box>(138,435),(998,865)</box>
+response: <ref>man</ref><box>(180,86),(650,984)</box>
+response: <ref>face</ref><box>(314,86),(546,439)</box>
+response: <ref>touch</ref><box>(314,86),(546,439)</box>
+response: <ref> man</ref><box>(490,49),(583,263)</box>
+response: <ref> short</ref><box>(432,668),(612,948)</box>
+response: <ref> shirt</ref><box>(499,126),(584,253)</box>
+response: <ref> appear</ref><box>(432,669),(612,947)</box>
+response: <ref> gey</ref><box>(490,49),(583,263)</box>
+response: <ref> right</ref><box>(353,423),(646,528)</box>
+response: <ref> frame</ref><box>(353,423),(646,528)</box>
+response: <ref> bird</ref><box>(769,889),(816,955)</box>
+response: <ref> white</ref><box>(353,423),(646,528)</box>
+response: <ref> fly</ref><box>(769,889),(816,955)</box>
+response: <ref> mountain</ref><box>(1,315),(546,989)</box>
+response: <ref> hiker</ref><box>(873,467),(925,685)</box>
+response: <ref> sky</ref><box>(0,4),(997,387)</box>
+response: <ref> beauty</ref><box>(1,3),(998,393)</box>
+response: <ref> observe</ref><box>(873,466),(925,686)</box>
+response: <ref> flame</ref><box>(324,4),(502,749)</box>
+response: <ref> size</ref><box>(323,4),(502,753)</box>
+response: <ref> increase</ref><box>(323,4),(502,753)</box>
+response: <ref> person</ref><box>(339,537),(398,678)</box>
+response: <ref> shirt</ref><box>(344,564),(389,634)</box>
+response: <ref> wear</ref><box>(344,564),(389,634)</box>
+response: <ref> stop</ref><box>(729,583),(796,675)</box>
+459it [30:27,  4.84s/it]460it [30:29,  3.83s/it]461it [30:33,  4.04s/it]462it [30:38,  4.13s/it]463it [30:40,  3.60s/it]464it [30:43,  3.34s/it]465it [30:45,  2.98s/it]466it [30:46,  2.55s/it]467it [30:52,  3.58s/it]468it [30:54,  2.90s/it]469it [30:56,  2.72s/it]470it [31:02,  3.69s/it]471it [31:06,  3.95s/it]472it [31:12,  4.44s/it]473it [31:13,  3.47s/it]474it [31:15,  3.05s/it]475it [31:19,  3.22s/it]476it [31:25,  4.01s/it]477it [31:32,  4.93s/it]478it [31:37,  5.13s/it]479it [31:41,  4.74s/it]480it [31:48,  5.21s/it]481it [31:58,  6.89s/it]482it [32:01,  5.69s/it]483it [32:06,  5.41s/it]484it [32:09,  4.70s/it]485it [32:12,  4.30s/it]486it [32:16,  3.93s/it]487it [32:19,  3.81s/it]488it [32:22,  3.66s/it]489it [32:30,  4.72s/it]490it [32:33,  4.49s/it]491it [32:40,  5.13s/it]492it [32:44,  4.65s/it]495it [32:48,  2.76s/it]496it [32:51,  3.02s/it]497it [32:55,  3.22s/it]498it [32:57,  2.71s/it]499it [32:59,  2.70s/it]500it [33:03,  2.89s/it]501it [33:06,  3.03s/it]502it [33:07,  2.47s/it]503it [33:11,  2.85s/it]504it [33:14,  2.97s/it]response: <ref> jump</ref><box>(729,583),(796,675)</box>
+response: <ref>dog</ref><box>(297,4),(626,671)</box>
+response: eat
+list index out of range
+response: <ref>head</ref><box>(510,362),(613,694)</box>
+response: <ref>hand</ref><box>(87,0),(308,999)</box>
+response: <ref>rise</ref><box>(87,0),(308,999)</box>
+response: <ref>clap</ref><box>(87,0),(308,999)</box>
+response: <ref>hand</ref><box>(0,529),(723,988)</box>
+response: <ref>person</ref><box>(0,529),(723,988)</box>
+response: <ref>device</ref><box>(74,194),(292,709)</box>
+response: <ref>place</ref><box>(574,10),(999,983)</box>
+response: <ref>cat</ref><box>(467,198),(994,995)</box>
+response: <ref>lay down</ref><box>(467,198),(994,995)</box>
+response: <ref>door</ref><box>(776,439),(873,679)</box>
+response: <ref>close</ref><box>(776,439),(873,679)</box>
+response: <ref> man</ref><box>(704,403),(778,633)</box>
+response: <ref> squat down</ref><box>(568,577),(853,988)</box>
+response: <ref>dog</ref><box>(119,42),(838,962)</box>
+response: mouth
+list index out of range
+response: <ref>view</ref><box>(1,156),(466,995)</box>
+response: <ref>sun</ref><box>(501,599),(536,652)</box>
+response: <ref>water</ref><box>(426,839),(476,920)</box>
+response: <ref>rise</ref><box>(499,594),(536,652)</box>
+response: <ref>come</ref><box>(487,594),(536,652)</box>
+response: <ref>dog</ref><box>(122,40),(872,977)</box>
+response: mouth
+list index out of range
+response: <ref> umbrella</ref><box>(558,532),(680,592)</box>
+response: <ref> four</ref><box>(382,522),(887,732)</box>
+response: <ref>hat</ref><box>(431,347),(494,402)</box>
+response: <ref>people</ref><box>(124,299),(253,545)</box>
+response: <ref>koala</ref><box>(353,347),(507,519)</box>
+response: <ref>two</ref><box>(124,299),(253,545)</box>
+response: <ref>approach</ref><box>(377,678),(447,985)</box>
+response: <ref> cave</ref><box>(2,6),(284,994)</box>
+response: <ref> view</ref><box>(155,149),(995,995)</box>
+response: <ref> wall</ref><box>(897,1),(997,995)</box>
+response: <ref> zoom out</ref><box>(155,149),(995,995)</box>
+response: <ref>view</ref><box>(3,4),(997,995)</box>
+response: <ref>man</ref><box>(193,557),(434,999)</box>
+response: <ref>beret</ref><box>(193,557),(434,999)</box>
+response: <ref>walk</ref><box>(822,533),(997,995)</box>
+response: <ref>black</ref><box>(822,533),(997,995)</box>
+response: <ref>violinist</ref><box>(234,575),(497,987)</box>
+response: <ref>stage</ref><box>(1,5),(997,997)</box>
+response: <ref>singer</ref><box>(301,0),(444,829)</box>
+response: <ref>ground</ref><box>(357,819),(423,891)</box>
+response: <ref>land</ref><box>(637,785),(703,869)</box>
+response: <ref>bird</ref><box>(233,532),(353,616)</box>
+response: <ref>purse</ref><box>(117,463),(199,633)</box>
+response: <ref>shirt</ref><box>(109,433),(191,638)</box>
+response: <ref>woman</ref><box>(789,362),(871,666)</box>
+response: <ref>pink</ref><box>(791,370),(874,666)</box>
+response: <ref>walk</ref><box>(715,612),(817,985)</box>
+response: <ref>sort</ref><box>(171,103),(537,971)</box>
+response: <ref>dealing</ref><box>(78,82),(249,820)</box>
+response: <ref>business</ref><box>(78,82),(249,820)</box>
+response: <ref>guy</ref><box>(78,82),(249,820)</box>
+response: <ref>conversation</ref><box>(171,103),(537,971)</box>
+response: <ref>have</ref><box>(171,103),(537,971)</box>
+response: <ref>band</ref><box>(125,274),(421,989)</box>
+response: <ref>show</ref><box>(125,274),(421,989)</box>
+response: <ref>play</ref><box>(125,274),(421,989)</box>
+response: <ref>small</ref><box>(465,256),(812,954)</box>
+response: <ref>corner</ref><box>(746,543),(998,988)</box>
+response: <ref>cloud</ref><box>(1,4),(997,713)</box>
+response: <ref>big</ref><box>(338,689),(699,815)</box>
+response: <ref>water</ref><box>(541,13),(995,988)</box>
+response: <ref>hair</ref><box>(0,23),(493,852)</box>
+response: <ref>girl</ref><box>(0,23),(995,995)</box>
+response: <ref>long</ref><box>(541,13),(995,988)</box>
+response: <ref>stand</ref><box>(591,0),(995,266)</box>
+response: <ref>g</ref><box>(438,103),(608,773)</box>
+response: <ref>light</ref><box>(363,31),(682,994)</box>
+response: <ref>b</ref><box>(36,559),(270,995)</box>
+response: <ref>letter</ref><box>(36,559),(270,995)</box>
+response: <ref>进行bbox标注</ref><box>(36,559),(270,995)</box>
+response: <ref>building</ref><box>(363,31),(682,994)</box>
+response: <ref>white</ref><box>(36,559),(270,995)</box>
+response: <ref>red</ref><box>(36,559),(270,995)</box>
+response: <ref>change</ref><box>(36,559),(270,995)</box>
+response: <ref> girl</ref><box>(357,469),(491,696)</box><box>(596,484),(704,698)</box>
+response: <ref> splash</ref><box>(313,639),(491,795)</box>
+response: <ref> frisbee</ref><box>(419,261),(477,314)</box>
+response: <ref> man</ref><box>(374,424),(424,514)</box>
+response: <ref> building</ref><box>(1,484),(539,734)</box>
+response: <ref> throw</ref><box>(374,424),(424,514)</box>
+response: <ref>view</ref><box>(256,0),(999,987)</box>
+response: <ref>man</ref><box>(256,0),(999,987)</box>
+response: <ref>come</ref><box>(211,218),(536,477)</box>
+response: <ref>car</ref><box>(243,390),(374,583)</box>
+response: <ref>white</ref><box>(243,390),(374,583)</box>
+response: <ref>drive by</ref><box>(243,390),(374,583)</box>
+response: <ref> girl</ref><box>(341,398),(456,628)</box><box>(578,420),(686,617)</box>
+response: <ref> point</ref><box>(363,530),(458,604)</box>
+response: <ref> bike</ref><box>(518,350),(563,463)</box>
+response: <ref> hill</ref><box>(434,663),(843,929)</box>
+response: <ref> jump over</ref><box>(384,652),(841,932)</box>
+response: <ref>log</ref><box>(320,106),(820,215)</box>
+response: <ref>koala</ref><box>(370,117),(520,255)</box>
+response: <ref>flip</ref><box>(388,106),(830,221)</box>
+response: <ref>man</ref><box>(194,0),(999,694)</box>
+response: <ref>sleeve</ref><box>(414,5),(999,976)</box>
+response: <ref>screen</ref><box>(31,339),(537,957)</box>
+response: <ref>computer</ref><box>(31,339),(537,957)</box>
+response: <ref>point</ref><box>(414,5),(999,976)</box>
+response: <ref>black</ref><box>(414,5),(999,976)</box>
+response: <ref> poster</ref><box>(223,157),(557,686)</box>
+response: <ref> page</ref><box>(378,205),(518,379)</box>
+response: <ref> turn over</ref><box>(377,202),(521,377)</box>
+response: <ref>man</ref><box>(193,53),(443,794)</box>
+response: <ref>dough</ref><box>(0,756),(412,995)</box>
+response: <ref>rope</ref><box>(0,756),(412,995)</box>
+response: <ref>glass</ref><box>(457,438),(493,607)</box>
+response: <ref>cut</ref><box>(467,249),(581,711)</box>
+response: <ref>girl</ref><box>(346,464),(513,710)</box><box>(619,484),(708,697)</box>
+response: <ref>point</ref><box>(437,439),(509,514)</box>
+response: <ref>g</ref><box>(438,106),(613,773)</box>
+response: <ref>blue</ref><box>(17,691),(247,995)</box>
+response: <ref>appear</ref><box>(357,10),(683,994)</box>
+response: <ref> movement</ref><box>(11,398),(988,988)</box>
+response: <ref> sun</ref><box>(651,205),(829,413)</box>
+response: <ref> water</ref><box>(474,582),(586,780)</box>
+response: <ref> sidewalk</ref><box>(2,535),(999,968)</box>
+response: <ref> corner</ref><box>(291,523),(971,956)</box>
+response: <ref> box</ref><box>(557,743),(643,878)</box>
+response: <ref>ice</ref><box>(6,5),(995,994)</box>
+response: <ref>baby</ref><box>(20,4),(957,994)</box>
+response: <ref>tickle</ref><box>(74,118),(278,285)</box>
+response: <ref>person</ref><box>(687,55),(941,521)</box>
+response: <ref>frame</ref><box>(373,403),(541,721)</box>
+response: <ref>wave</ref><box>(683,245),(900,519)</box>
+response: <ref>sun</ref><box>(507,603),(543,651)</box>
+response: <ref>horizon</ref><box>(439,582),(639,659)</box>
+response: <ref>peek</ref><box>(619,755),(749,858)</box>
+response: <ref>frame</ref><box>(1,689),(825,995)</box>
+response: <ref> shirt</ref><box>(367,474),(591,862)</box>
+response: <ref> clerk</ref><box>(365,303),(593,997)</box>
+response: <ref> white</ref><box>(367,472),(591,862)</box>
+response: disappear
+list index out of range
+response: <ref> hair</ref><box>(649,95),(758,234)</box>
+response: <ref> gentleman</ref><box>(479,98),(768,995)</box>
+response: <ref> white</ref><box>(251,305),(341,751)</box>
+response: <ref>bus</ref><box>(121,284),(999,916)</box>
+response: <ref>red</ref><box>(121,284),(999,916)</box>
+505it [33:18,  3.12s/it]506it [33:23,  3.70s/it]507it [33:27,  3.76s/it]508it [33:32,  4.21s/it]509it [33:36,  4.12s/it]510it [33:37,  3.37s/it]511it [33:42,  3.90s/it]512it [33:47,  4.11s/it]513it [33:51,  3.93s/it]514it [33:54,  3.78s/it]515it [33:55,  3.04s/it]516it [34:03,  4.49s/it]517it [34:09,  4.79s/it]519it [34:13,  3.61s/it]520it [34:19,  4.06s/it]521it [34:25,  4.79s/it]522it [34:29,  4.39s/it]523it [34:32,  4.09s/it]524it [34:38,  4.72s/it]525it [34:45,  5.37s/it]526it [34:51,  5.45s/it]527it [34:53,  4.53s/it]528it [34:58,  4.52s/it]529it [35:01,  4.09s/it]530it [35:03,  3.51s/it]531it [35:06,  3.41s/it]532it [35:09,  3.37s/it]533it [35:10,  2.65s/it]534it [35:13,  2.48s/it]535it [35:14,  2.13s/it]536it [35:22,  3.94s/it]537it [35:24,  3.44s/it]538it [35:28,  3.50s/it]539it [35:32,  3.78s/it]540it [35:37,  3.97s/it]541it [35:39,  3.45s/it]543it [35:42,  2.65s/it]544it [35:47,  3.13s/it]545it [35:51,  3.44s/it]546it [35:54,  3.12s/it]547it [35:57,  3.10s/it]548it [36:01,  3.51s/it]response: <ref>appear</ref><box>(121,284),(999,916)</box>
+response: <ref>head</ref><box>(0,139),(449,986)</box>
+response: <ref>hand</ref><box>(0,139),(449,986)</box>
+response: <ref>rise</ref><box>(494,366),(602,696)</box>
+response: <ref>clap</ref><box>(0,139),(449,986)</box>
+response: <ref> hall</ref><box>(11,5),(990,992)</box>
+response: <ref> giant</ref><box>(114,7),(578,994)</box>
+response: <ref> sign</ref><box>(127,103),(279,537)</box>
+response: <ref> paper</ref><box>(10,11),(992,993)</box>
+response: <ref> piece</ref><box>(701,11),(805,356)</box>
+response: <ref> appear</ref><box>(711,10),(805,356)</box>
+response: <ref> white</ref><box>(701,11),(805,356)</box>
+response: <ref>view</ref><box>(476,93),(727,975)</box>
+response: <ref>person</ref><box>(863,546),(998,998)</box>
+response: <ref>come</ref><box>(329,89),(559,996)</box>
+response: <ref> lady</ref><box>(23,10),(700,876)</box>
+response: ,view
+list index out of range
+response: <ref>head</ref><box>(407,856),(682,999)</box>
+response: <ref>hand</ref><box>(426,819),(696,951)</box>
+response: <ref>person</ref><box>(696,643),(946,999)</box>
+response: <ref>place</ref><box>(13,21),(996,999)</box>
+response: <ref> guitar</ref><box>(428,535),(576,719)</box>
+response: <ref> foot</ref><box>(550,757),(769,883)</box>
+response: <ref> girl</ref><box>(222,164),(874,881)</box>
+response: <ref> move</ref><box>(437,535),(569,717)</box>
+response: <ref>wind</ref><box>(344,235),(821,999)</box>
+response: <ref>jacket</ref><box>(344,235),(821,999)</box>
+response: <ref>flap</ref><box>(344,235),(821,999)</box>
+response: <ref> tower</ref><box>(105,5),(996,995)</box>
+response: <ref> people</ref><box>(744,695),(924,997)</box>
+response: <ref> two</ref><box>(744,695),(924,997)</box>
+response: <ref>girl</ref><box>(3,5),(569,996)</box>
+response: look up
+list index out of range
+response: <ref> band</ref><box>(278,139),(460,995)</box><box>(758,224),(957,996)</box><box>(561,482),(730,996)</box><box>(202,241),(347,996)</box>
+response: <ref> tender</ref><box>(757,222),(958,995)</box>
+response: <ref> bar</ref><box>(1,516),(193,997)</box>
+response: <ref> walk</ref><box>(758,222),(958,995)</box>
+response: <ref> return</ref><box>(758,222),(958,995)</box>
+response: <ref>piano</ref><box>(0,366),(466,999)</box>
+response: <ref>man</ref><box>(357,233),(821,999)</box>
+response: <ref>hand</ref><box>(357,233),(821,999)</box>
+response: <ref>lift</ref><box>(357,328),(430,438)</box>
+response: <ref>bubble</ref><box>(286,53),(445,284)</box>
+response: <ref>gear</ref><box>(264,293),(378,530)</box>
+response: <ref>scuba</ref><box>(274,293),(374,530)</box>
+response: <ref>escape</ref><box>(279,53),(443,284)</box>
+response: <ref> right</ref><box>(1,513),(997,993)</box>
+response: <ref> frame</ref><box>(1,513),(997,993)</box>
+response: <ref> bird</ref><box>(526,705),(558,762)</box>
+response: <ref> white</ref><box>(1,513),(997,993)</box>
+response: <ref> fly</ref><box>(526,705),(558,762)</box>
+response: <ref> woman</ref><box>(389,789),(468,964)</box>
+response: <ref> scene</ref><box>(12,13),(992,988)</box>
+response: <ref> frame</ref><box>(177,530),(357,994)</box>
+response: <ref> dress</ref><box>(399,802),(463,964)</box>
+response: <ref> come</ref><box>(183,520),(351,994)</box>
+response: <ref> black</ref><box>(301,862),(363,994)</box>
+response: <ref> ground</ref><box>(2,506),(435,996)</box>
+response: <ref> land</ref><box>(227,436),(996,996)</box>
+response: <ref> bird</ref><box>(265,453),(535,629)</box>
+response: <ref>boy</ref><box>(195,593),(302,710)</box>
+response: <ref>slide</ref><box>(743,423),(996,952)</box>
+response: <ref>get up</ref><box>(194,593),(303,710)</box>
+response: <ref>hat</ref><box>(193,547),(450,999)</box>
+response: <ref>person</ref><box>(374,739),(686,999)</box>
+response: <ref>view</ref><box>(374,739),(686,999)</box>
+response: <ref>black</ref><box>(193,547),(450,999)</box>
+response: <ref>exit</ref><box>(828,531),(999,999)</box>
+response: <ref> stand</ref><box>(22,503),(947,997)</box>
+response: <ref> gentleman</ref><box>(47,167),(703,999)</box>
+response: <ref> microphone</ref><box>(211,275),(333,340)</box>
+response: <ref> reach</ref><box>(23,496),(947,578)</box>
+response: <ref> adjust</ref><box>(222,521),(767,997)</box>
+response: <ref> stand</ref><box>(22,501),(942,997)</box>
+response: <ref> puck</ref><box>(11,11),(991,987)</box>
+response: <ref> ice</ref><box>(11,11),(991,987)</box>
+response: <ref> person</ref><box>(11,11),(991,987)</box>
+response: <ref> hockey</ref><box>(11,11),(991,987)</box>
+response: <ref> shoot</ref><box>(11,11),(991,987)</box>
+response: <ref> collection</ref><box>(3,139),(995,996)</box>
+response: <ref> rock</ref><box>(319,354),(543,590)</box>
+response: <ref>bus</ref><box>(1,183),(236,895)</box>
+response: <ref>deck</ref><box>(1,183),(236,895)</box>
+response: <ref>double</ref><box>(1,183),(236,895)</box>
+response: <ref>speed</ref><box>(338,163),(395,310)</box>
+response: <ref>view</ref><box>(261,5),(999,987)</box>
+response: <ref>man</ref><box>(261,5),(999,987)</box>
+response: <ref>come</ref><box>(78,0),(745,636)</box>
+response: <ref>frame</ref><box>(8,10),(991,988)</box>
+response: <ref>shortest</ref><box>(344,689),(561,997)</box>
+response: <ref>sky</ref><box>(3,2),(994,996)</box>
+response: <ref>firework</ref><box>(686,283),(737,460)</box>
+response: <ref>streak</ref><box>(269,279),(900,995)</box>
+response: <ref>car</ref><box>(234,494),(843,817)</box>
+response: <ref>red</ref><box>(234,494),(843,817)</box>
+response: <ref>race</ref><box>(234,494),(843,817)</box>
+response: <ref>splash</ref><box>(3,6),(995,996)</box>
+response: <ref>girl</ref><box>(0,13),(681,998)</box>
+response: <ref>look</ref><box>(760,11),(996,973)</box>
+response: <ref>frame</ref><box>(716,320),(997,913)</box>
+response: <ref>car</ref><box>(342,174),(414,290)</box>
+response: <ref>bus</ref><box>(34,174),(169,350)</box>
+response: <ref>traffic</ref><box>(339,105),(563,332)</box>
+response: <ref>black</ref><box>(303,401),(346,561)</box>
+response: <ref>go through</ref><box>(34,174),(169,350)</box>
+response: <ref>red</ref><box>(895,237),(935,313)</box>
+response: <ref>go by</ref><box>(453,109),(538,276)</box>
+response: <ref>car</ref><box>(1,3),(997,706)</box>
+response: <ref>red</ref><box>(306,372),(473,567)</box>
+response: <ref> crowd</ref><box>(86,540),(939,994)</box>
+response: <ref> spotlight</ref><box>(813,438),(923,538)</box>
+response: <ref> turn off</ref><box>(1,363),(51,436)</box>
+response: <ref>hat</ref><box>(83,606),(311,999)</box>
+response: <ref>man</ref><box>(83,606),(311,999)</box>
+response: <ref>black</ref><box>(83,606),(311,999)</box>
+response: <ref>walk off</ref><box>(838,587),(999,989)</box>
+response: <ref>tree</ref><box>(446,2),(683,484)</box>
+response: <ref>bird</ref><box>(429,425),(523,530)</box>
+response: <ref>begin</ref><box>(233,524),(313,616)</box>
+response: <ref>land</ref><box>(439,626),(529,722)</box>
+response: <ref>hand</ref><box>(586,366),(630,433)</box>
+response: <ref>clap</ref><box>(299,753),(344,818)</box>
+response: <ref> they</ref><box>(353,418),(481,681)</box>
+response: <ref> left</ref><box>(87,503),(205,710)</box>
+response: <ref> go</ref><box>(733,179),(914,546)</box>
+response: <ref>hat</ref><box>(518,134),(842,559)</box>
+response: <ref>view</ref><box>(257,133),(999,999)</box>
+response: <ref>person</ref><box>(257,133),(999,999)</box>
+response: <ref>red</ref><box>(257,133),(999,999)</box>
+response: <ref> woman</ref><box>(488,5),(997,997)</box>
+response: <ref> man</ref><box>(63,4),(381,997)</box>
+response: <ref> blindfold</ref><box>(126,101),(317,202)</box>
+response: <ref> touch</ref><box>(391,633),(435,733)</box>
+response: <ref>frame</ref><box>(6,10),(994,988)</box>
+response: <ref>shortest</ref><box>(341,683),(717,964)</box>
+response: <ref> rock</ref><box>(556,526),(602,670)</box>
+response: <ref> people</ref><box>(520,460),(567,662)</box><box>(584,427),(649,732)</box>
+response: <ref>hand</ref><box>(26,553),(348,989)</box>
+response: <ref>screen</ref><box>(0,362),(62,797)</box>
+response: <ref>frame</ref><box>(0,362),(62,797)</box>
+response: <ref>descend</ref><box>(23,553),(348,989)</box>
+response: <ref>g</ref><box>(437,105),(608,779)</box>
+response: <ref>blue</ref><box>(27,615),(267,995)</box>
+549it [36:05,  3.55s/it]550it [36:10,  4.13s/it]551it [36:15,  4.21s/it]552it [36:19,  4.28s/it]553it [36:24,  4.29s/it]554it [36:28,  4.32s/it]555it [36:31,  4.02s/it]556it [36:36,  4.18s/it]557it [36:40,  4.33s/it]558it [36:44,  4.04s/it]559it [36:46,  3.49s/it]560it [36:49,  3.41s/it]561it [36:52,  3.32s/it]562it [36:57,  3.73s/it]563it [37:01,  3.65s/it]564it [37:03,  3.22s/it]565it [37:06,  3.30s/it]566it [37:09,  3.05s/it]567it [37:11,  2.90s/it]568it [37:17,  3.86s/it]569it [37:24,  4.56s/it]570it [37:26,  3.85s/it]571it [37:29,  3.67s/it]572it [37:30,  2.90s/it]574it [37:32,  2.08s/it]575it [37:36,  2.47s/it]576it [37:42,  3.27s/it]577it [37:45,  3.32s/it]578it [37:48,  3.25s/it]579it [37:52,  3.56s/it]580it [37:56,  3.69s/it]581it [38:00,  3.55s/it]582it [38:01,  2.87s/it]583it [38:03,  2.64s/it]584it [38:07,  3.16s/it]585it [38:12,  3.63s/it]586it [38:14,  3.22s/it]587it [38:19,  3.77s/it]588it [38:23,  3.69s/it]589it [38:26,  3.59s/it]590it [38:31,  3.87s/it]591it [38:35,  4.07s/it]592it [38:40,  4.20s/it]593it [38:46,  4.77s/it]response: <ref>appear</ref><box>(363,35),(683,992)</box>
+response: <ref>hat</ref><box>(204,146),(739,338)</box>
+response: <ref>child</ref><box>(37,149),(900,850)</box>
+response: <ref>screen</ref><box>(0,1),(996,107)</box>
+response: <ref>something</ref><box>(423,486),(581,639)</box>
+response: <ref>point</ref><box>(431,486),(576,633)</box>
+response: <ref>piano</ref><box>(0,397),(466,999)</box>
+response: <ref>man</ref><box>(359,249),(822,999)</box>
+response: <ref>hand</ref><box>(359,249),(822,999)</box>
+response: <ref>lift</ref><box>(809,469),(915,909)</box>
+response: <ref>hall</ref><box>(7,5),(994,996)</box>
+response: <ref>giant</ref><box>(628,73),(996,874)</box>
+response: <ref>picture</ref><box>(358,37),(995,994)</box>
+response: <ref>show</ref><box>(185,26),(672,207)</box>
+response: <ref>bus</ref><box>(1,4),(660,263)</box>
+response: <ref>deck</ref><box>(303,213),(997,984)</box>
+response: <ref>double</ref><box>(900,224),(997,714)</box>
+response: <ref>speed</ref><box>(609,213),(719,647)</box>
+response: <ref> arm</ref><box>(353,374),(410,493)</box>
+response: <ref> man</ref><box>(353,314),(463,745)</box>
+response: <ref> swing</ref><box>(353,374),(410,493)</box>
+response: <ref> raise</ref><box>(353,374),(410,493)</box>
+response: <ref> train</ref><box>(11,347),(997,706)</box>
+response: <ref> door</ref><box>(691,467),(810,677)</box>
+response: <ref> close</ref><box>(11,347),(997,706)</box>
+response: <ref> sunglass</ref><box>(549,122),(604,167)</box>
+response: <ref> guy</ref><box>(436,88),(674,965)</box>
+response: <ref> foreground</ref><box>(103,825),(733,996)</box>
+response: <ref> wear</ref><box>(539,449),(671,823)</box>
+response: <ref>head</ref><box>(382,858),(667,999)</box>
+response: <ref>hand</ref><box>(368,845),(559,999)</box>
+response: <ref>person</ref><box>(602,697),(855,999)</box>
+response: <ref>place</ref><box>(201,183),(991,383)</box>
+response: <ref>arm</ref><box>(359,403),(390,468)</box>
+response: <ref>person</ref><box>(359,403),(390,468)</box>
+response: <ref>move</ref><box>(159,517),(201,578)</box>
+response: <ref> bird</ref><box>(388,351),(567,490)</box>
+response: <ref> leave</ref><box>(577,893),(640,975)</box>
+response: <ref> crowd</ref><box>(10,449),(993,992)</box>
+response: <ref> spotlight</ref><box>(1,339),(103,755)</box>
+response: <ref> be</ref><box>(233,757),(273,832)</box>
+response: <ref> sky</ref><box>(4,10),(995,727)</box>
+response: <ref> view</ref><box>(6,5),(994,990)</box>
+response: <ref> cloud</ref><box>(427,333),(518,431)</box>
+response: <ref>laptop</ref><box>(677,594),(740,713)</box>
+response: <ref>man</ref><box>(589,328),(747,982)</box>
+response: <ref>tie</ref><box>(631,444),(667,540)</box>
+response: <ref>touch</ref><box>(740,423),(793,550)</box>
+response: <ref>hall</ref><box>(498,197),(996,410)</box>
+response: <ref>giant</ref><box>(235,513),(686,988)</box>
+response: <ref>sign</ref><box>(178,373),(997,993)</box>
+response: <ref>firework</ref><box>(646,295),(952,636)</box>
+response: <ref>shoot</ref><box>(646,295),(952,636)</box>
+response: <ref> movement</ref><box>(11,359),(989,990)</box>
+response: <ref> sun</ref><box>(648,183),(832,415)</box>
+response: <ref> water</ref><box>(571,542),(695,683)</box>
+response: <ref> flower</ref><box>(0,53),(706,715)</box>
+response: <ref> white</ref><box>(0,53),(706,715)</box>
+response: <ref>cat</ref><box>(104,209),(999,978)</box>
+response: <ref>lay down</ref><box>(104,209),(999,978)</box>
+response: <ref> starting</ref><box>(349,622),(713,818)</box>
+response: <ref> car</ref><box>(349,622),(713,818)</box>
+response: <ref> line</ref><box>(349,622),(713,818)</box>
+response: <ref> red</ref><box>(349,622),(713,818)</box>
+response: <ref> take off</ref><box>(349,622),(713,818)</box>
+response: <ref> man</ref><box>(767,359),(838,573)</box>
+response: <ref> suit</ref><box>(683,413),(753,596)</box>
+response: <ref> lean</ref><box>(685,383),(755,598)</box>
+response: <ref> get</ref><box>(769,359),(836,572)</box>
+response: <ref> black</ref><box>(683,413),(753,596)</box>
+response: <ref>cat</ref><box>(359,204),(751,874)</box>
+response: <ref>lay</ref><box>(522,465),(743,859)</box>
+response: <ref>tree</ref><box>(675,10),(760,645)</box>
+response: <ref>trunk</ref><box>(679,10),(749,640)</box>
+response: <ref>show</ref><box>(669,10),(760,638)</box>
+response: <ref> arm</ref><box>(210,159),(433,493)</box>
+response: <ref>man</ref><box>(255,156),(883,988)</box>
+response: <ref>move close</ref><box>(255,156),(883,988)</box>
+response: <ref> tower</ref><box>(296,5),(997,994)</box>
+response: <ref> person</ref><box>(785,193),(990,764)</box>
+response: <ref> stand</ref><box>(568,407),(999,992)</box>
+response: <ref>man</ref><box>(398,275),(991,984)</box>
+response: <ref>tattoo</ref><box>(398,275),(991,984)</box>
+response: <ref>sticker</ref><box>(398,275),(991,984)</box>
+response: <ref>cheek</ref><box>(398,275),(991,984)</box>
+response: <ref> hand</ref><box>(146,49),(304,233)</box>
+response: <ref> baby</ref><box>(120,4),(995,995)</box>
+response: <ref> tickle</ref><box>(672,549),(999,999)</box>
+response: <ref> man</ref><box>(32,6),(414,996)</box>
+response: <ref> green</ref><box>(124,95),(303,223)</box>
+response: <ref> turn</ref><box>(367,7),(904,989)</box>
+response: <ref>hat</ref><box>(21,619),(293,999)</box>
+response: <ref>man</ref><box>(21,619),(293,999)</box>
+response: <ref>black</ref><box>(21,619),(293,999)</box>
+response: <ref>walk off</ref><box>(836,579),(999,999)</box>
+response: <ref> girl</ref><box>(362,443),(463,673)</box><box>(597,459),(697,686)</box>
+response: <ref> mime</ref><box>(362,443),(463,673)</box>
+response: <ref> swim</ref><box>(597,459),(697,686)</box>
+response: <ref>braid</ref><box>(702,569),(999,984)</box>
+response: <ref>girl</ref><box>(702,569),(999,984)</box>
+response: <ref>jump</ref><box>(24,3),(729,988)</box>
+response: <ref> hallway</ref><box>(0,3),(995,995)</box>
+response: <ref> sunset</ref><box>(7,11),(993,988)</box>
+response: <ref> beach</ref><box>(467,720),(997,995)</box>
+response: <ref>man</ref><box>(0,112),(227,989)</box>
+response: <ref>cap</ref><box>(114,294),(285,532)</box>
+response: <ref>bend</ref><box>(339,399),(502,559)</box>
+response: <ref>blue</ref><box>(27,296),(517,985)</box>
+response: <ref>bubble</ref><box>(502,226),(569,356)</box>
+response: <ref>diver</ref><box>(227,16),(594,597)</box>
+response: <ref>see</ref><box>(1,5),(995,995)</box>
+response: <ref>go</ref><box>(21,682),(419,867)</box>
+response: <ref> people</ref><box>(1,476),(997,995)</box>
+response: <ref> walk</ref><box>(807,804),(989,995)</box>
+response: <ref>b</ref><box>(365,34),(684,995)</box>
+response: <ref>g</ref><box>(25,619),(247,995)</box>
+response: <ref>fade</ref><box>(367,34),(683,994)</box>
+response: <ref>turn</ref><box>(367,34),(683,994)</box>
+response: <ref> screen</ref><box>(262,516),(343,612)</box>
+response: <ref> people</ref><box>(131,639),(212,951)</box>
+response: <ref> walk</ref><box>(10,865),(115,993)</box>
+response: <ref>man</ref><box>(161,173),(549,986)</box>
+response: <ref>face</ref><box>(305,175),(513,466)</box>
+response: <ref>touch</ref><box>(469,656),(549,851)</box>
+response: <ref>fire</ref><box>(288,928),(450,996)</box>
+response: <ref>puff</ref><box>(367,946),(438,996)</box>
+response: <ref>stage</ref><box>(241,625),(689,996)</box>
+response: <ref>two small</ref><box>(357,928),(438,996)</box>
+response: <ref>head</ref><box>(388,849),(672,999)</box>
+response: <ref>hand</ref><box>(388,849),(672,999)</box>
+response: <ref>person</ref><box>(647,772),(863,999)</box>
+response: <ref>place</ref><box>(201,249),(823,378)</box>
+response: <ref>light</ref><box>(271,549),(658,870)</box>
+response: <ref>water</ref><box>(274,583),(653,865)</box>
+response: <ref>blue</ref><box>(274,556),(656,865)</box>
+response: <ref>flash</ref><box>(274,556),(656,865)</box>
+response: <ref>silver</ref><box>(181,563),(423,822)</box>
+response: <ref>display</ref><box>(0,356),(708,663)</box>
+response: <ref>wheel</ref><box>(359,723),(419,815)</box>
+response: <ref>change</ref><box>(595,487),(795,628)</box>
+response: <ref>show</ref><box>(285,529),(369,666)</box>
+response: <ref>silver</ref><box>(553,524),(723,638)</box>
+response: <ref>display</ref><box>(319,369),(588,567)</box>
+response: <ref>wheel</ref><box>(257,721),(317,823)</box>
+594it [38:53,  5.39s/it]595it [39:02,  6.42s/it]596it [39:05,  5.56s/it]597it [39:10,  5.22s/it]598it [39:13,  4.58s/it]599it [39:17,  4.51s/it]600it [39:20,  4.17s/it]601it [39:27,  4.83s/it]602it [39:33,  5.18s/it]603it [39:35,  4.25s/it]604it [39:42,  5.13s/it]605it [39:46,  4.92s/it]606it [39:54,  5.63s/it]607it [39:55,  4.42s/it]608it [40:00,  4.48s/it]609it [40:06,  4.82s/it]610it [40:07,  3.78s/it]611it [40:11,  4.02s/it]612it [40:23,  6.12s/it]613it [40:25,  4.95s/it]614it [40:27,  4.14s/it]615it [40:33,  4.80s/it]616it [40:40,  5.39s/it]617it [40:43,  4.78s/it]618it [40:47,  4.31s/it]619it [40:50,  3.92s/it]620it [40:55,  4.49s/it]621it [40:58,  3.80s/it]622it [41:03,  4.24s/it]623it [41:08,  4.56s/it]624it [41:18,  6.07s/it]625it [41:22,  5.42s/it]626it [41:24,  4.57s/it]627it [41:27,  3.98s/it]628it [41:31,  3.91s/it]629it [41:35,  4.13s/it]630it [41:40,  4.41s/it]631it [41:44,  4.22s/it]response: <ref>change</ref><box>(397,785),(459,982)</box>
+response: <ref>show</ref><box>(377,785),(447,991)</box>
+response: <ref>car</ref><box>(383,284),(449,378)</box>
+response: <ref>bus</ref><box>(378,284),(447,374)</box>
+response: <ref>traffic</ref><box>(374,203),(603,386)</box>
+response: <ref>black</ref><box>(374,577),(439,773)</box>
+response: <ref>go through</ref><box>(379,284),(448,374)</box>
+response: <ref>red</ref><box>(933,364),(973,430)</box>
+response: <ref>go by</ref><box>(378,284),(447,378)</box>
+response: <ref>bus</ref><box>(717,562),(806,675)</box>
+response: <ref>red</ref><box>(495,431),(533,480)</box>
+response: <ref>pass</ref><box>(495,431),(533,480)</box>
+response: <ref> guitar</ref><box>(438,498),(657,713)</box>
+response: <ref> foot</ref><box>(588,823),(814,943)</box>
+response: <ref> girl</ref><box>(187,172),(888,996)</box>
+response: <ref> move</ref><box>(494,807),(658,915)</box>
+response: <ref>girl</ref><box>(348,478),(438,748)</box><box>(595,500),(692,740)</box>
+response: <ref>point</ref><box>(345,476),(443,757)</box>
+response: <ref>man</ref><box>(487,462),(720,996)</box>
+response: <ref>screen</ref><box>(496,559),(724,906)</box>
+response: <ref>catwalk</ref><box>(1,799),(388,999)</box>
+response: <ref>walk</ref><box>(1,799),(388,999)</box>
+response: <ref>child</ref><box>(1,135),(921,860)</box>
+response: <ref>something</ref><box>(430,485),(607,633)</box>
+response: <ref>point</ref><box>(426,484),(603,632)</box>
+response: <ref>dress</ref><box>(619,170),(800,456)</box>
+response: <ref>frame</ref><box>(0,0),(139,124)</box>
+response: <ref>woman</ref><box>(619,170),(800,456)</box>
+response: <ref>red</ref><box>(619,170),(800,456)</box>
+response: <ref>sit</ref><box>(485,394),(595,599)</box>
+response: <ref>man</ref><box>(625,62),(737,368)</box>
+response: <ref>short</ref><box>(489,54),(578,274)</box>
+response: <ref>shirt</ref><box>(625,62),(737,368)</box>
+response: <ref>appear</ref><box>(489,54),(578,274)</box>
+response: <ref>gey</ref><box>(489,54),(578,274)</box>
+response: <ref> screen</ref><box>(283,3),(520,999)</box>
+response: <ref> boss</ref><box>(309,29),(433,999)</box>
+response: <ref> people</ref><box>(257,599),(334,915)</box><box>(675,484),(750,746)</box><box>(149,609),(231,920)</box><box>(467,780),(603,997)</box><box>(531,466),(611,756)</box><box>(87,593),(146,823)</box><box>(383,529),(431,726)</box><box>(940,502),(997,710)</box>
+response: <ref> walk</ref><box>(23,753),(111,988)</box>
+response: <ref>piano</ref><box>(0,402),(458,999)</box>
+response: <ref>man</ref><box>(357,249),(811,999)</box>
+response: <ref>hand</ref><box>(357,249),(811,999)</box>
+response: <ref>lift</ref><box>(339,359),(450,459)</box>
+response: <ref>man</ref><box>(199,0),(999,980)</box>
+response: <ref>sleeve</ref><box>(206,146),(637,567)</box>
+response: <ref>screen</ref><box>(18,353),(270,863)</box>
+response: <ref>computer</ref><box>(18,353),(270,863)</box>
+response: <ref>point</ref><box>(421,655),(521,799)</box>
+response: <ref>black</ref><box>(421,655),(521,799)</box>
+response: <ref>dog</ref><box>(347,5),(713,541)</box>
+response: eat
+list index out of range
+response: <ref> someone</ref><box>(146,5),(588,994)</box>
+response: <ref> time</ref><box>(486,143),(791,612)</box>
+response: <ref> frame</ref><box>(486,143),(791,612)</box>
+response: <ref> walk</ref><box>(486,143),(791,612)</box>
+response: <ref>dress</ref><box>(500,434),(624,849)</box>
+response: <ref>state</ref><box>(500,434),(624,849)</box>
+response: <ref>girl</ref><box>(429,812),(602,991)</box>
+response: <ref>blue</ref><box>(500,434),(624,849)</box>
+response: <ref>walk</ref><box>(500,434),(624,849)</box>
+response: <ref>dog</ref><box>(119,42),(838,962)</box>
+response: mouth
+list index out of range
+response: <ref>sky</ref><box>(304,419),(418,574)</box>
+response: <ref>sun</ref><box>(605,128),(745,328)</box>
+response: <ref>cloud</ref><box>(229,796),(358,935)</box>
+response: <ref>blue</ref><box>(334,452),(429,580)</box>
+response: <ref>t-shirt</ref><box>(107,566),(263,759)</box>
+response: <ref>back</ref><box>(107,566),(263,759)</box>
+response: <ref>frisbee</ref><box>(453,576),(517,630)</box>
+response: <ref>dude</ref><box>(107,566),(263,759)</box>
+response: <ref>black</ref><box>(107,566),(263,759)</box>
+response: <ref>white</ref><box>(107,566),(263,759)</box>
+response: <ref>throw</ref><box>(453,576),(517,630)</box>
+response: <ref>pick</ref><box>(453,576),(517,630)</box>
+response: <ref>throw</ref><box>(453,576),(517,630)</box>
+response: <ref>man</ref><box>(0,86),(215,988)</box>
+response: <ref>red</ref><box>(0,86),(215,988)</box>
+response: <ref>sun</ref><box>(505,606),(536,650)</box>
+response: <ref>rise</ref><box>(484,583),(536,661)</box>
+response: <ref>guy</ref><box>(2,118),(322,988)</box>
+response: <ref>shirt</ref><box>(2,312),(313,886)</box>
+response: <ref>go</ref><box>(305,224),(447,645)</box>
+response: <ref>play</ref><box>(385,199),(519,604)</box>
+response: <ref>pink</ref><box>(2,312),(313,886)</box>
+response: <ref>band</ref><box>(257,127),(423,988)</box><box>(718,115),(919,994)</box>
+response: <ref>tender</ref><box>(257,127),(423,988)</box>
+response: <ref>bar</ref><box>(1,438),(267,995)</box>
+response: <ref>walk</ref><box>(1,438),(267,995)</box>
+response: <ref>return</ref><box>(1,438),(267,995)</box>
+response: <ref>car</ref><box>(927,494),(1000,627)</box>
+response: <ref>woman</ref><box>(516,211),(998,993)</box>
+response: <ref>pass</ref><box>(247,319),(385,479)</box>
+response: <ref> person</ref><box>(537,0),(918,915)</box>
+response: <ref> frame</ref><box>(305,138),(656,532)</box>
+response: <ref> leave</ref><box>(522,198),(574,274)</box>
+response: <ref>sun</ref><box>(686,2),(789,62)</box>
+response: <ref>horizon</ref><box>(11,0),(994,109)</box>
+response: <ref>appear</ref><box>(187,0),(269,61)</box>
+response: <ref>water</ref><box>(0,172),(995,996)</box>
+response: <ref>hair</ref><box>(359,188),(767,933)</box>
+response: <ref>girl</ref><box>(269,186),(904,995)</box>
+response: <ref>long</ref><box>(269,759),(455,900)</box>
+response: <ref>stand</ref><box>(893,623),(996,996)</box>
+response: <ref> ladder</ref><box>(333,447),(481,868)</box>
+response: <ref> appear</ref><box>(131,462),(185,700)</box>
+response: <ref>man</ref><box>(257,2),(340,217)</box>
+response: <ref>cap</ref><box>(122,303),(315,562)</box>
+response: <ref>bend</ref><box>(385,420),(995,993)</box>
+response: <ref>blue</ref><box>(10,303),(366,984)</box>
+response: <ref>dress</ref><box>(748,258),(941,536)</box>
+response: <ref>girl</ref><box>(748,258),(941,536)</box>
+response: <ref>purple</ref><box>(390,447),(526,744)</box>
+response: <ref>move</ref><box>(748,258),(941,536)</box>
+response: <ref>car</ref><box>(151,674),(535,994)</box>
+response: <ref>bus</ref><box>(526,262),(577,369)</box>
+response: <ref>traffic</ref><box>(377,184),(626,409)</box>
+response: <ref>black</ref><box>(645,567),(710,823)</box>
+response: <ref>go through</ref><box>(526,262),(577,369)</box>
+response: <ref>red</ref><box>(929,358),(968,443)</box>
+response: <ref>go by</ref><box>(527,262),(577,366)</box>
+response: <ref> hair</ref><box>(623,60),(713,166)</box>
+response: <ref> gentleman</ref><box>(490,60),(764,996)</box>
+response: <ref> white</ref><box>(623,478),(748,853)</box>
+response: <ref>text</ref><box>(17,15),(986,984)</box>
+response: <ref>visible</ref><box>(227,238),(587,979)</box>
+response: <ref>train</ref><box>(194,459),(383,624)</box>
+response: <ref>appear</ref><box>(189,460),(386,624)</box>
+response: <ref>view</ref><box>(3,2),(997,996)</box>
+response: <ref>dog</ref><box>(959,482),(996,576)</box>
+response: <ref>come</ref><box>(133,358),(210,426)</box>
+response: <ref>bus</ref><box>(0,0),(893,524)</box>
+response: <ref>decker</ref><box>(0,0),(893,524)</box>
+response: <ref>go</ref><box>(815,652),(933,751)</box>
+response: <ref>double</ref><box>(0,0),(893,524)</box>
+response: <ref>arm</ref><box>(389,10),(451,239)</box>
+response: <ref>screen</ref><box>(201,4),(501,986)</box>
+response: <ref>person</ref><box>(289,0),(469,802)</box>
+response: <ref>raise</ref><box>(301,612),(399,802)</box>
+response: <ref>sky</ref><box>(3,3),(995,597)</box>
+response: <ref>firework</ref><box>(528,405),(860,824)</box>
+response: <ref>streak</ref><box>(315,335),(419,785)</box>
+632it [41:45,  3.32s/it]633it [41:49,  3.50s/it]634it [41:54,  3.89s/it]635it [41:58,  3.90s/it]636it [42:03,  4.28s/it]637it [42:05,  3.64s/it]638it [42:10,  3.82s/it]639it [42:13,  3.62s/it]640it [42:16,  3.46s/it]640it [42:16,  3.96s/it]
+response: <ref> people</ref><box>(656,3),(749,996)</box>
+response: <ref>car</ref><box>(924,469),(997,599)</box>
+response: <ref>woman</ref><box>(487,217),(998,991)</box>
+response: <ref>pass</ref><box>(247,317),(386,486)</box>
+response: <ref> picture</ref><box>(163,13),(984,992)</box>
+response: <ref> line</ref><box>(247,375),(621,560)</box>
+response: <ref> black</ref><box>(1,4),(285,995)</box>
+response: <ref> disappear</ref><box>(823,573),(889,703)</box>
+response: <ref>sun</ref><box>(505,594),(620,651)</box>
+response: <ref>horizon</ref><box>(416,576),(646,659)</box>
+response: <ref>peek</ref><box>(505,594),(620,651)</box>
+response: <ref>man</ref><box>(1,536),(69,988)</box>
+response: <ref>snow</ref><box>(445,654),(605,874)</box>
+response: <ref>jacket</ref><box>(0,737),(39,995)</box>
+response: <ref>show</ref><box>(333,636),(475,855)</box>
+response: <ref>red</ref><box>(1,737),(39,821)</box>
+response: <ref>car</ref><box>(293,534),(380,709)</box>
+response: <ref>drive by</ref><box>(227,386),(398,711)</box>
+response: <ref>piano</ref><box>(0,368),(466,999)</box>
+response: <ref>man</ref><box>(359,239),(821,999)</box>
+response: <ref>something</ref><box>(810,459),(910,905)</box>
+response: <ref>point</ref><box>(810,459),(910,905)</box>
+response: <ref>train</ref><box>(199,446),(382,628)</box>
+response: <ref>bridge</ref><box>(22,224),(541,634)</box>
+response: <ref>pass</ref><box>(19,224),(541,634)</box>
+response: <ref> rock</ref><box>(135,514),(271,713)</box>
+response: <ref> mountain</ref><box>(528,473),(735,590)</box>
+response: <ref> wall</ref><box>(1,516),(996,996)</box>

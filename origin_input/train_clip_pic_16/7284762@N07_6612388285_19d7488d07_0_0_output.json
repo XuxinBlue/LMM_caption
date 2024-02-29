@@ -1,0 +1,79 @@
+{
+    "image": "/data/local-files?d=train_clip_pic_16/7284762@N07_6612388285_19d7488d07_0_0.jpg",
+    "caption": "the package sits on a wooden table, unopened.",
+    "translation": "包裹放在一张木桌上，没有打开。",
+    "relationship": "table: [''], package: ['sit', 'unopene']",
+    "id": 48,
+    "annotator": 2,
+    "annotator_id": 48,
+    "created_at": "2024-01-07T03:01:10.604652Z",
+    "updated_at": "2024-01-07T03:01:10.604652Z",
+    "lead_time": 348.555,
+    "Label": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Evening"
+            ],
+            "original_width": 640,
+            "original_height": 480
+        }
+    ],
+    "nouns": [
+        {
+            "x": 24.8,
+            "y": 13.7,
+            "width": 44.2,
+            "height": 76.1,
+            "rotation": 0,
+            "rectanglelabels": [
+                "table"
+            ],
+            "original_width": 640,
+            "original_height": 480
+        },
+        {
+            "x": 25.7,
+            "y": 31.6,
+            "width": 42.599999999999994,
+            "height": 35.1,
+            "rotation": 0,
+            "rectanglelabels": [
+                "package"
+            ],
+            "original_width": 640,
+            "original_height": 480
+        }
+    ],
+    "verbs": [
+        {
+            "x": 35.4,
+            "y": 36.3,
+            "width": 14.399999999999999,
+            "height": 7.400000000000006,
+            "rotation": 0,
+            "rectanglelabels": [
+                "sit"
+            ],
+            "original_width": 640,
+            "original_height": 480
+        },
+        {
+            "x": 34.8,
+            "y": 36.3,
+            "width": 15.100000000000001,
+            "height": 7.300000000000004,
+            "rotation": 0,
+            "rectanglelabels": [
+                "unopene"
+            ],
+            "original_width": 640,
+            "original_height": 480
+        }
+    ],
+    "flag": 1
+}

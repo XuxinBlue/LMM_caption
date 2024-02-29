@@ -1,0 +1,25 @@
+{
+    "image": "/data/local-files?d=train_clip_pic_16/7284762@N07_6612388285_19d7488d07_0_0.jpg",
+    "caption": "the package sits on a wooden table, unopened.",
+    "translation": "包裹放在一张木桌上，没有打开。",
+    "nouns": [
+        {
+            "value": "table"
+        },
+        {
+            "value": "package"
+        }
+    ],
+    "verbs": [
+        {
+            "value": "*"
+        },
+        {
+            "value": "sit"
+        },
+        {
+            "value": "unopene"
+        }
+    ],
+    "relationship": "table: [''], package: ['sit', 'unopene']"
+}
