@@ -25,6 +25,7 @@
 |   |-- dataset.txt 
 |-- split_file
 |   |-- dataset's split
+|   |-- dataset.txt 
 |-- others 
 |   |-- check.ipynb
 ```
