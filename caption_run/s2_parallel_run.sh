@@ -11,7 +11,7 @@ doMakeDir(){
 }
 
 # pwd
-root='/home/hf/code/liuzhiwei/AIGC/LMM/caption1/caption1_run'
+root='~/LMM_caption'
 cd "$root"
 
 # 确保使用的是 bash shell
@@ -31,8 +31,8 @@ conda activate modelscope
 echo "Current conda env: $CONDA_DEFAULT_ENV"
 
 # definition
-work_dir='/home/hf/code/liuzhiwei/AIGC/LMM/caption1/split_file'
-out_dir='/home/hf/code/liuzhiwei/AIGC/LMM/caption1/json_dir'
+work_dir='~/LMM_caption/split_file'
+out_dir='~/LMM_caption/json_dir'
 shard_num=10
 scene_name='train_clip_pic_16'
 work_dir=$work_dir/$scene_name
@@ -58,7 +58,7 @@ for ((i=0; i<$shard_num; i++))
         doMakeDir $out_log
 
         # command
-        # 根据任务切换--prompt1/--prompt2(后期可改造成串联关系)
+        ### 根据任务切换--prompt1/--prompt2(后期可改造成串联关系) ###
         # CUDA_VISIBLE_DEVICES=$gpu unbuffer -p python qwen_vl_chat.py \
 
         CUDA_VISIBLE_DEVICES=$gpu python qwen_vl_chat.py \
