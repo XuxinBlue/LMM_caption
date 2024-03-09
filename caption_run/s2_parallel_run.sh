@@ -21,7 +21,7 @@ if [ -z "$BASH_VERSION" ]; then
     exit 1
 fi
 # 初始化Conda环境
-source /home/hf/miniconda3/etc/profile.d/conda.sh || {
+source /home/user/miniconda3/etc/profile.d/conda.sh || {
     echo "Failed to source conda profile script." >&2
     exit 1 
 }
