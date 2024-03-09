@@ -199,8 +199,8 @@ if __name__ == '__main__':
             with open('./error.txt', 'a') as f:
                 f.write(f'{path}\n')
 
-# CUDA_VISIBLE_DEVICES=0 python qwen_vl_chat.py --input_txt '/home/hf/code/liuzhiwei/AIGC/LMM/caption1/split_file/train_clip_pic_16/slice0000' --prompt1
-# CUDA_VISIBLE_DEVICES=0 python qwen_vl_chat.py --input_txt '/home/hf/code/liuzhiwei/AIGC/LMM/caption1/split_file/train_clip_pic_16/slice0000' --prompt2
-# CUDA_VISIBLE_DEVICES=0 python qwen_vl_chat.py --input_txt '/home/hf/code/liuzhiwei/AIGC/LMM/caption1/caption1_run/error.txt' --prompt2
+# CUDA_VISIBLE_DEVICES=0 python qwen_vl_chat.py --input_txt '~/LMM_caption/split_file/train_clip_pic_16/slice0000' --prompt1
+# CUDA_VISIBLE_DEVICES=0 python qwen_vl_chat.py --input_txt '~/LMM_caption/split_file/train_clip_pic_16/slice0000' --prompt2
+# CUDA_VISIBLE_DEVICES=0 python qwen_vl_chat.py --input_txt '~/LMM_caption/caption_run/error.txt' --prompt2
         
         
